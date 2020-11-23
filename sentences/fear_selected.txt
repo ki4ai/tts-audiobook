@@ -1,0 +1,167 @@
+2. AI-Hub-multimodal/2001-2400/clip_2116/clip_2116.json|팔자라는게 정말 있나봐.. 너무 무서워..
+3. AI-Hub-multimodal/2001-2400/clip_2337/clip_2337.json|그렇게 말하니까 좀 무서운데?
+4. AI-Hub-multimodal/1601-2000/clip_1973/clip_1973.json|그래도… 너무 무서워…
+5. AI-Hub-multimodal/1601-2000/clip_1964/clip_1964.json|응. 진짜 너무 무서워서 자다가 깨서 일어났는데도 너무 무서웠어…
+6. AI-Hub-multimodal/4801-5200/clip_4984/clip_4984.json|으엑. 무서워.
+7. AI-Hub-multimodal/2001-2400/clip_2222/clip_2222.json|나 너무 무서워 엄마….
+8. AI-Hub-multimodal/1601-2000/clip_1751/clip_1751.json|나이 든다는 게 그런 건가 봐.. 나도 가끔 내 몸이나 정신이 예전 같지 않을 때 무서운 기분이 들어.
+9. AI-Hub-multimodal/1601-2000/clip_1985/clip_1985.json|그랬겠다 진짜.. 너무 무서울 것 같아.
+10. AI-Hub-multimodal/1601-2000/clip_1797/clip_1797.json|아… 나도 할머니 무서운데…
+11. AI-Hub-multimodal/2401-2800/clip_2630/clip_2630.json|너무 무서워서 제대로 못봤어. 너가 들어가서 보고 나와봐.
+12. AI-Hub-multimodal/5201-5600/clip_5542/clip_5542.json|아니야... 할아버지 죽었잖아요...	 왜 자꾸 와요? 무서워...!
+13. AI-Hub-multimodal/2001-2400/clip_2085/clip_2085.json|그러니까! 너무 무서워서 꿈속인데 발이 떨어지지 않더라니까..
+14. AI-Hub-multimodal/1201-1600/clip_1476/clip_1476.json|진짜 거짓말 안했는데요. 갑자기 왜 그래요 할머니. 무서워요……..
+15. AI-Hub-multimodal/4401-4800/clip_4795/clip_4795.json|네에.... 엄마한테 말하기 무서운데... 아씨...
+16. AI-Hub-multimodal/2001-2400/clip_2085/clip_2085.json|으아아 너무 무서워…
+17. AI-Hub-multimodal/1601-2000/clip_1930/clip_1930.json|상준이요? 걔가 저 죽이면 어쩌실건데요? 저 무서워요… 어떻게 이런 질문을 저한테 함부로 하세요? 저 지켜주실 수 있으세요?
+18. AI-Hub-multimodal/0001-0400/clip_49/clip_49.json|장롱 여는 소리 같치럼.. 하여튼 무서워 죽겠어요.
+19. AI-Hub-multimodal/5201-5600/clip_5544/clip_5544.json|아, 뭐에요. 무서워요...	 근데 할아버지가 왜 저한테 그러는 건데요?
+20. AI-Hub-multimodal/2401-2800/clip_2495/clip_2495.json|아니요… 처음엔 엄청 무서워서. 막 울뻔 했어요. 할머니 분명히 돌아가셨는데, 눈 앞에 있으니까…
+21. AI-Hub-multimodal/1201-1600/clip_1325/clip_1325.json|음… 그렇겠다... 좀 섬뜩하긴 할거 같아. 내가 꿈을 좀 길게 꾸나? 많이 무서워?
+22. AI-Hub-multimodal/0801-1200/clip_1046/clip_1046.json|날 왜 줘. 나는 무서워서 칼 못 써.
+23. AI-Hub-multimodal/2801-3200/clip_2878/clip_2878.json|아저씨도 좀 그렇고요… 이 상황이 그냥 좀 무서워요.
+24. AI-Hub-multimodal/1201-1600/clip_1370/clip_1370.json|네..? 비누가 왜 안 줄어요? 진짜 무서운 얘길 하시네?
+25. AI-Hub-multimodal/2001-2400/clip_2365/clip_2365.json|아니… 나 강아지 무서워해.. 미미 오기 전에 가려고.
+26. AI-Hub-multimodal/2001-2400/clip_2127/clip_2127.json|다음부턴 이런 거 하지말자… 너무 무서웠어.
+27. AI-Hub-multimodal/2001-2400/clip_2098/clip_2098.json|그 연쇄살인범이 계속 돌아다니나봐.. 어떡해.. 너무 무서워..
+29. AI-Hub-multimodal/2001-2400/clip_2193/clip_2193.json|나는 얘, 지금도.. 이렇게 그 때 일 이야기하고 있는 것만으로도 무서워. 또 그런 일 생길까봐.
+30. AI-Hub-multimodal/3601-4000/clip_3653/clip_3653.json|응 진짜 무서워. 특히 하지 말라는 거 했을 때 표정이 악마같이 변해.
+31. AI-Hub-multimodal/1601-2000/clip_1921/clip_1921.json| 진짜 내가 소리 똑똑히 들었단 말이야… 아 좀 무서운데.. 도둑 같은 거 든 거 아니야?
+33. AI-Hub-multimodal/5201-5600/clip_5537/clip_5537.json|네... 좀 무서워요...
+34. AI-Hub-multimodal/1601-2000/clip_1789/clip_1789.json|무서워서요.
+36. AI-Hub-multimodal/3201-3600/clip_3500/clip_3500.json|내 앞에서는 아니고, 나는 무서워서 그냥 문, 문 닫고 있었어.
+38. AI-Hub-multimodal/2001-2400/clip_2086/clip_2086.json|아 너무 무서워. 벌써.
+40. AI-Hub-multimodal/5201-5600/clip_5472/clip_5472.json|헐. 혼자서 어떻게 가요? 너무 무서울 것 같애.
+44. AI-Hub-multimodal/1601-2000/clip_1967/clip_1967.json|그게 아니잖아.. 나 진짜 귀신 무서워 한단 말이야.
+45. AI-Hub-multimodal/4801-5200/clip_5065/clip_5065.json|아, 근데 이따 밤 되면 무서울 거 같은데.       나는 남자라서 화장실도 애들이랑 같이 못 간단 말이야…
+46. AI-Hub-multimodal/0001-0400/clip_274/clip_274.json|나, 공부가 손에 하나도 안 잡혀. 성적은 둘째치고, 학교에 나오는 게 너무 무서워.
+47. AI-Hub-multimodal/2001-2400/clip_2257/clip_2257.json|아니… 지금 문자 온 거 같은데… 열어 보기 너무 무서워.
+48. AI-Hub-multimodal/1601-2000/clip_1964/clip_1964.json|아, 그랬겠다… 듣기만 해도 진짜 무서운 꿈이네...
+49. AI-Hub-multimodal/4801-5200/clip_5022/clip_5022.json|…무서워요.
+50. AI-Hub-multimodal/1601-2000/clip_1608/clip_1608.json|그럴까..? 지금이라도 말하는게 좋을까? 나 무서운데… 화내면 어떡해…
+51. AI-Hub-multimodal/5201-5600/clip_5301/clip_5301.json|할아버지 회사 너무 무서워요.
+52. AI-Hub-multimodal/1601-2000/clip_1930/clip_1930.json|진짜 죽일 수 있는 애라니까요? 저 진짜.. 진짜로 무서워요.
+53. AI-Hub-multimodal/5601-6000/clip_5892/clip_5892.json|아니, 그 놈들이 무슨 일을 할 줄 알고?        막 영화 같은데 보니까, 조선족들은 장기매매도 하고.       마약도 팔고. 그런다며?       아유, 세상 무서워서 정말.
+55. AI-Hub-multimodal/0401-0800/clip_580/clip_580.json|무서워서 못 있겠어요. 그 귀신 이야기 진짠가봐요.
+66. AI-Hub-multimodal/2001-2400/clip_2336/clip_2336.json|항상 같이 있을 수도 없고.. 난 너무 무서워...
+67. AI-Hub-multimodal/0801-1200/clip_952/clip_952.json|저도 무서워요. 막 이상한거 아니에요?
+69. AI-Hub-multimodal/2001-2400/clip_2336/clip_2336.json|세상에 이렇게 나쁜 사람들이 많은데… 어떻게 살아야돼?길가는 사람들도 무섭고.. 다 무서워..
+70. AI-Hub-multimodal/5601-6000/clip_5892/clip_5892.json|아니, 무서워서 못 살겠다니까?       그리고 그 사람들 때문에, 매출도 떨어지게 생겼어.
+71. AI-Hub-multimodal/2001-2400/clip_2144/clip_2144.json|야… 뭐야 무서워…
+73. AI-Hub-multimodal/2001-2400/clip_2143/clip_2143.json|헐… 너무 무서워.
+74. AI-Hub-multimodal/2001-2400/clip_2053/clip_2053.json|저... 집에 갈래요... 무서워요...
+75. AI-Hub-multimodal/1201-1600/clip_1489/clip_1489.json|야… 나는 그 때 너무 무서워서…
+76. AI-Hub-multimodal/4401-4800/clip_4449/clip_4449.json|애들이, 무서운 거 영상 알려줬는데……	 문제를 풀려면, 끝까지 다 봐야되는데, 어... 너무 무서워서.
+77. AI-Hub-multimodal/1601-2000/clip_1751/clip_1751.json|예전에 어른들이 깜빡 깜빡 하면 왜 저럴까 싶은 생각도 있었는데.. 이젠 내가 그렇게 된 것 같아서 무서울 때도 있어..
+78. AI-Hub-multimodal/4801-5200/clip_5159/clip_5159.json|그치만…. 혼자 보기 무서운데.
+79. AI-Hub-multimodal/1201-1600/clip_1487/clip_1487.json|나도 너무 무서워..
+80. AI-Hub-multimodal/5201-5600/clip_5371/clip_5371.json|네.  너무너무 무서웠어요.        그리고 그 가면 쓴 애들이 막 저한테 달려들어서       팔을 잡아당기고, 옷을 벗기려고 했어요.
+81. AI-Hub-multimodal/5601-6000/clip_5986/clip_5986.json|그냥 나중에라도. 내가 죽으면 사람들도	 금방 나 잊어버릴 거 아니야. 난 혼잔데.	 너무 무서워.
+82. AI-Hub-multimodal/1201-1600/clip_1487/clip_1487.json|으... 무서워…
+83. AI-Hub-multimodal/5201-5600/clip_5430/clip_5430.json|네..엄마가 이쪽으로 다니지 말라 그랬어요.	 근데 우리 언제까지 있어야 돼요?	 나 쫌 무서운데..
+84. AI-Hub-multimodal/3201-3600/clip_3518/clip_3518.json|아니요… 치과 무서워요.
+86. AI-Hub-multimodal/5201-5600/clip_5370/clip_5370.json|죄송해요 엄마…. 혼날까봐 무서워서….
+87. AI-Hub-multimodal/1601-2000/clip_1628/clip_1628.json|정말? 나는 천둥보다 엄마가 더 무서운데…
+88. AI-Hub-multimodal/1601-2000/clip_1804/clip_1804.json|아니. 지금 아버지 말씀하시는 태도가 이상하잖아요...! 저 지금 무서워요.. 대체 저 핏자국 뭐에요! 똑바로 말씀하시라고요!
+89. AI-Hub-multimodal/3201-3600/clip_3352/clip_3352.json|아씨 무서워서 여기 못 있을 거 같애.
+90. AI-Hub-multimodal/3601-4000/clip_3812/clip_3812.json|근데... 자전거 무섭단 말이야. 너무 빨라서 무서워.
+91. AI-Hub-multimodal/1601-2000/clip_1967/clip_1967.json|아 아빠 그만 하라니까.. 나 정말 무서워 진짜로..
+92. AI-Hub-multimodal/2001-2400/clip_2083/clip_2083.json|뭐…? 너 점점 너무 무서워진다…
+93. AI-Hub-multimodal/2401-2800/clip_2725/clip_2725.json|저… 너무.. 너무 무서운데..
+94. AI-Hub-multimodal/5201-5600/clip_5531/clip_5531.json|진짜로 안돼요. 제발요! 	저희 엄마 진짜 무서워요.
+95. AI-Hub-multimodal/1601-2000/clip_1967/clip_1967.json|진짜? 나 무서워.. 아빠 그만해..
+96. AI-Hub-multimodal/3601-4000/clip_3666/clip_3666.json|누구야. 무서… 저리 가. 
+97. AI-Hub-multimodal/2001-2400/clip_2346/clip_2346.json|엄마 너무 무서워. 그냥 말해줘…
+98. AI-Hub-multimodal/2401-2800/clip_2502/clip_2502.json|네… 제가 치과 치료 받는 걸 무서워 해서요…
+99. AI-Hub-multimodal/4801-5200/clip_5065/clip_5065.json|으. 나 그런거 진짜 무서워하는데?
+100. AI-Hub-multimodal/5601-6000/clip_5677/clip_5677.json|그 왜. 여자들 난리 치는 거 있잖아.        아무래도, 나도 그런게 좀 무서워서….
+AI-Hub-multimodal/2001-2400/clip_2116/clip_2116.json|팔자라는게 정말 있나봐.. 너무 무서워..
+AI-Hub-multimodal/2001-2400/clip_2337/clip_2337.json|그렇게 말하니까 좀 무서운데?
+AI-Hub-multimodal/2001-2400/clip_2328/clip_2328.json|엄마… 그러다 일 커지면 나 진짜 학교 못 다녀. 선우네 형이 얼마나 무서운데.
+AI-Hub-multimodal/1601-2000/clip_1973/clip_1973.json|그래도… 너무 무서워…
+AI-Hub-multimodal/1601-2000/clip_1964/clip_1964.json|응. 진짜 너무 무서워서 자다가 깨서 일어났는데도 너무 무서웠어…
+AI-Hub-multimodal/4801-5200/clip_4984/clip_4984.json|으엑. 무서워.
+AI-Hub-multimodal/2001-2400/clip_2222/clip_2222.json|나 너무 무서워 엄마….
+AI-Hub-multimodal/1601-2000/clip_1983/clip_1983.json|그래도! 너무 무서워!
+AI-Hub-multimodal/0001-0400/clip_332/clip_332.json|이렇게 야금야금 덜어내다가 갑자기 그만 둘 생각이었겠지 진짜 무서운 사람이야
+AI-Hub-multimodal/1601-2000/clip_1751/clip_1751.json|나이 든다는 게 그런 건가 봐.. 나도 가끔 내 몸이나 정신이 예전 같지 않을 때 무서운 기분이 들어.
+AI-Hub-multimodal/1601-2000/clip_1985/clip_1985.json|그랬겠다 진짜.. 너무 무서울 것 같아.
+AI-Hub-multimodal/1601-2000/clip_1797/clip_1797.json|아… 나도 할머니 무서운데…
+AI-Hub-multimodal/2401-2800/clip_2630/clip_2630.json|너무 무서워서 제대로 못봤어. 너가 들어가서 보고 나와봐.
+AI-Hub-multimodal/2001-2400/clip_2085/clip_2085.json|그러니까! 너무 무서워서 꿈속인데 발이 떨어지지 않더라니까..
+AI-Hub-multimodal/1201-1600/clip_1476/clip_1476.json|진짜 거짓말 안했는데요. 갑자기 왜 그래요 할머니. 무서워요……..
+AI-Hub-multimodal/4401-4800/clip_4795/clip_4795.json|네에.... 엄마한테 말하기 무서운데... 아씨...
+AI-Hub-multimodal/2001-2400/clip_2085/clip_2085.json|으아아 너무 무서워…
+AI-Hub-multimodal/1601-2000/clip_1930/clip_1930.json|상준이요? 걔가 저 죽이면 어쩌실건데요? 저 무서워요… 어떻게 이런 질문을 저한테 함부로 하세요? 저 지켜주실 수 있으세요?
+AI-Hub-multimodal/0001-0400/clip_49/clip_49.json|장롱 여는 소리 같치럼.. 하여튼 무서워 죽겠어요.
+AI-Hub-multimodal/1201-1600/clip_1338/clip_1338.json|진짜 아까웠지… 초보한테는 주차가 제일 무서워.
+AI-Hub-multimodal/3201-3600/clip_3318/clip_3318.json|그리고 다음부터는 엄마한테 데릴러 와달라고 해. 요즘 세상이 무서워서.
+AI-Hub-multimodal/1201-1600/clip_1228/clip_1228.json|그래! 내가 어릴 때부터 아무것도 안 무서웠는데 진짜 귀신이 너무 무서워.
+AI-Hub-multimodal/5201-5600/clip_5544/clip_5544.json|아, 뭐에요. 무서워요...     근데 할아버지가 왜 저한테 그러는 건데요?
+AI-Hub-multimodal/2401-2800/clip_2495/clip_2495.json|아니요… 처음엔 엄청 무서워서. 막 울뻔 했어요. 할머니 분명히 돌아가셨는데, 눈 앞에 있으니까…
+AI-Hub-multimodal/1201-1600/clip_1325/clip_1325.json|음… 그렇겠다... 좀 섬뜩하긴 할거 같아. 내가 꿈을 좀 길게 꾸나? 많이 무서워?
+AI-Hub-multimodal/2001-2400/clip_2086/clip_2086.json|그래서 나도 무서웠지. 아무튼 그냥 버스를 탔는데 그 여자는 안 타는거야..!
+AI-Hub-multimodal/0801-1200/clip_1046/clip_1046.json|날 왜 줘. 나는 무서워서 칼 못 써.
+AI-Hub-multimodal/1201-1600/clip_1238/clip_1238.json|그래. 나는 그거 보고 나니까 무서워서, 내 딸도 라식수술 하지 못하게 했어.
+AI-Hub-multimodal/2001-2400/clip_2088/clip_2088.json|말이 안되지. 그러니까 무서운거지!
+AI-Hub-multimodal/1601-2000/clip_1933/clip_1933.json|지상준은 아무나 다 때려요. 걔는 진짜 무서운 애에요. 학교가 동물의 왕국이면 갠 포식자에요.
+AI-Hub-multimodal/2801-3200/clip_2878/clip_2878.json|아저씨도 좀 그렇고요… 이 상황이 그냥 좀 무서워요.
+AI-Hub-multimodal/1201-1600/clip_1370/clip_1370.json|네..? 비누가 왜 안 줄어요? 진짜 무서운 얘길 하시네?
+AI-Hub-multimodal/2001-2400/clip_2365/clip_2365.json|아니… 나 강아지 무서워해.. 미미 오기 전에 가려고.
+AI-Hub-multimodal/2001-2400/clip_2127/clip_2127.json|다음부턴 이런 거 하지말자… 너무 무서웠어.
+AI-Hub-multimodal/2001-2400/clip_2279/clip_2279.json|무서워서 나 아빠 차 이제 못 탈 거 같아. 이렇게 분노 조절 못하다가 큰 사고 한 번 낼 거 같아.
+AI-Hub-multimodal/2001-2400/clip_2098/clip_2098.json|그 연쇄살인범이 계속 돌아다니나봐.. 어떡해.. 너무 무서워..
+AI-Hub-multimodal/0401-0800/clip_512/clip_512.json|그래도 차 타고 가다가 고장날까봐 무서워요.
+AI-Hub-multimodal/4001-4400/clip_4302/clip_4302.json| 어.. 아닌데....    아저씨 좋은데.. 조금 무서워요.
+AI-Hub-multimodal/2001-2400/clip_2193/clip_2193.json|나는 얘, 지금도.. 이렇게 그 때 일 이야기하고 있는 것만으로도 무서워. 또 그런 일 생길까봐.
+AI-Hub-multimodal/3601-4000/clip_3653/clip_3653.json|응 진짜 무서워. 특히 하지 말라는 거 했을 때 표정이 악마같이 변해.
+AI-Hub-multimodal/1601-2000/clip_1921/clip_1921.json| 진짜 내가 소리 똑똑히 들었단 말이야… 아 좀 무서운데.. 도둑 같은 거 든 거 아니야?
+AI-Hub-multimodal/3201-3600/clip_3500/clip_3500.json|내 앞에서는 아니고, 나는 무서워서 그냥 문, 문 닫고 있었어.
+AI-Hub-multimodal/5201-5600/clip_5545/clip_5545.json| 으아... 무서워...  할아버지 왜 그래요...
+AI-Hub-multimodal/1201-1600/clip_1595/clip_1595.json|안 했지! 무서워서 못 하겠더라고.
+AI-Hub-multimodal/1201-1600/clip_1479/clip_1479.json|음.. 그래도 잡자 마자 뜯어 먹는 건 조금 무서워요. 회 모양으로 잘라져 있을 때 먹고 싶어요...
+AI-Hub-multimodal/5201-5600/clip_5472/clip_5472.json|헐. 혼자서 어떻게 가요? 너무 무서울 것 같애.
+AI-Hub-multimodal/1601-2000/clip_1812/clip_1812.json|그래도 무서워요.. 아악.. 아…  자꾸 계속 통증이 심해져요.
+AI-Hub-multimodal/1601-2000/clip_1934/clip_1934.json|아빠가 죽이려고 할거에요 저를. 미친놈을 자식으로 인정못한다면서. 전 그게 더 무서워요.
+AI-Hub-multimodal/1601-2000/clip_1967/clip_1967.json|그게 아니잖아.. 나 진짜 귀신 무서워 한단 말이야.
+AI-Hub-multimodal/4801-5200/clip_5065/clip_5065.json|아, 근데 이따 밤 되면 무서울 거 같은데.       나는 남자라서 화장실도 애들이랑 같이 못 간단 말이야…
+AI-Hub-multimodal/0001-0400/clip_274/clip_274.json|나, 공부가 손에 하나도 안 잡혀. 성적은 둘째치고, 학교에 나오는 게 너무 무서워.
+AI-Hub-multimodal/2001-2400/clip_2257/clip_2257.json|아니… 지금 문자 온 거 같은데… 열어 보기 너무 무서워.
+AI-Hub-multimodal/1601-2000/clip_1964/clip_1964.json|아, 그랬겠다… 듣기만 해도 진짜 무서운 꿈이네...
+AI-Hub-multimodal/1601-2000/clip_1608/clip_1608.json|그럴까..? 지금이라도 말하는게 좋을까? 나 무서운데… 화내면 어떡해…
+AI-Hub-multimodal/1601-2000/clip_1930/clip_1930.json|진짜 죽일 수 있는 애라니까요? 저 진짜.. 진짜로 무서워요.
+AI-Hub-multimodal/5601-6000/clip_5892/clip_5892.json|아니, 그 놈들이 무슨 일을 할 줄 알고?        막 영화 같은데 보니까, 조선족들은 장기매매도 하고.       마약도 팔고. 그런다며?       아유, 세상 무서워서 정말.
+AI-Hub-multimodal/0401-0800/clip_580/clip_580.json|무서워서 못 있겠어요. 그 귀신 이야기 진짠가봐요.
+AI-Hub-multimodal/2001-2400/clip_2336/clip_2336.json|항상 같이 있을 수도 없고.. 난 너무 무서워...
+AI-Hub-multimodal/4801-5200/clip_5022/clip_5022.json|그래. 아까 그 할머니 무서운 사람이야.               이 동네에서 본 적도 없는 사람이라고.            보니까, 뭔가 너한테 나쁜 짓을 할려고 한 것 같애.
+AI-Hub-multimodal/4401-4800/clip_4723/clip_4723.json|아이고. 무서운 소리 하지를 말어.
+AI-Hub-multimodal/2001-2400/clip_2053/clip_2053.json|저... 집에 갈래요... 무서워요...
+AI-Hub-multimodal/1601-2000/clip_1751/clip_1751.json|예전에 어른들이 깜빡 깜빡 하면 왜 저럴까 싶은 생각도 있었는데.. 이젠 내가 그렇게 된 것 같아서 무서울 때도 있어..
+AI-Hub-multimodal/1601-2000/clip_1983/clip_1983.json|뭐야 너무 무서워! 아빠 시골집 가기 싫어졌어.
+AI-Hub-multimodal/4801-5200/clip_5159/clip_5159.json|그치만…. 혼자 보기 무서운데.
+AI-Hub-multimodal/5201-5600/clip_5371/clip_5371.json|네.  너무너무 무서웠어요.        그리고 그 가면 쓴 애들이 막 저한테 달려들어서       팔을 잡아당기고, 옷을 벗기려고 했어요.
+AI-Hub-multimodal/2001-2400/clip_2335/clip_2335.json|그렇게 말하는게 더 무서워.. 그 형도 엄마 아들인데… 안 만나도 괜찮다는 게 이상해…
+AI-Hub-multimodal/5601-6000/clip_5986/clip_5986.json|그냥 나중에라도. 내가 죽으면 사람들도       금방 나 잊어버릴 거 아니야. 난 혼잔데.  너무 무서워.
+AI-Hub-multimodal/2001-2400/clip_2192/clip_2192.json|요즘 이상한 일이 있더라. 나 진짜 너무 무서웠어.
+AI-Hub-multimodal/5201-5600/clip_5430/clip_5430.json|네..엄마가 이쪽으로 다니지 말라 그랬어요.   근데 우리 언제까지 있어야 돼요?         나 쫌 무서운데..
+AI-Hub-multimodal/1201-1600/clip_1553/clip_1553.json|그 생각도 못했어. 너무 무서워가지고.
+AI-Hub-multimodal/1601-2000/clip_1967/clip_1967.json|아 아빠 그만 하라니까.. 나 정말 무서워 진짜로..
+AI-Hub-multimodal/2001-2400/clip_2083/clip_2083.json|뭐…? 너 점점 너무 무서워진다…
+AI-Hub-multimodal/2001-2400/clip_2346/clip_2346.json|엄마 너무 무서워. 그냥 말해줘…
+AI-Hub-multimodal/1201-1600/clip_1527/clip_1527.json|난 엄청 무서울 거 같은데? 뒤도 못 돌아 볼 거 같아.
+AI-Hub-multimodal/2401-2800/clip_2469/clip_2469.json|정말..? 그래도 너무 무서워… 지금 친구들 다 사라지면 나는 어떡해…
+AI-Hub-multimodal/4401-4800/clip_4676/clip_4676.json|무섭지. 왜 안무서워. 아직도 꿈에 나와.
+AI-Hub-multimodal/1601-2000/clip_1803/clip_1803.json|아니… 그냥 이상한 게 아니라 핏자국이라니까요… 그, 발자국도 있는 것 같고.. 아버지는 지금 안 무서우세요? 그게 누구 피인지도 모르는데?
+AI-Hub-multimodal/2001-2400/clip_2222/clip_2222.json|아.. 엄마 나 너무 무서워… 어떡하지….
+AI-Hub-multimodal/1201-1600/clip_1553/clip_1553.json|모르지 나도… 나 섬뜩해서 이제, 집에 못 들어 갈 거 같아.
+AI-Hub-multimodal/1201-1600/clip_1331/clip_1331.json|그 점이 너무 섬뜩해..
+AI-Hub-multimodal/5601-6000/clip_5633/clip_5633.json|간 떨려서 그런걸 어떻게 하나.
+AI-Hub-multimodal/2801-3200/clip_3015/clip_3015.json|와… 이제 손떨려서 과자도 못 사먹겠다.
+AI-Hub-multimodal/2001-2400/clip_2319/clip_2319.json|그래? 아.. 씨.. 왜 이렇게 떨리냐.. 휴… 별일이 없어야 될 텐데….
+AI-Hub-multimodal/5601-6000/clip_5925/clip_5925.json|아, 떨리는데. 그냥 따로 모이지.
+AI-Hub-multimodal/0001-0400/clip_269/clip_269.json|아, 특별히 생각을 못 해 왔는데... 어떡하죠, 긴장돼서 한 마디도 못 할 것 같아요...
+AI-Hub-multimodal/4001-4400/clip_4041/clip_4041.json|근데… 나 혼자 가기 무서워.
+AI-Hub-multimodal/5201-5600/clip_5321/clip_5321.json|저는요….. 학교에서 집에 돌아올 때가 제일 무서웠어요.        어떻게든 집에 안 들어갈려고 애들이랑 시내 돌아다니고,        노래방에서 죽치고, 괜히 여자애들이랑 놀고. 근데 그렇게 해도, 밤에는 집에 가야 한다는 사실이…       얼마나 힘들었는지. 형사님은 아시냐구요.
+AI-Hub-multimodal/1601-2000/clip_1812/clip_1812.json|근데 걱정돼요.. 무서워요…. 나 진짜 큰 병이면 어떻게 해? 수술해야 되면….. 그럼 어떡하지...
+AI-Hub-multimodal/1601-2000/clip_1925/clip_1925.json| 저 진짜 아침에 일어나는 게 너무 무서워요… 눈 뜨는 게 너무 무섭고 잠들 때면 매일 이대로 그냥 죽어버렸으면 좋겠다고 생각해요...
+AI-Hub-multimodal/2001-2400/clip_2086/clip_2086.json|아 나도 어제 무서운 꿈을 꿔서 잠을 하나도 못 잤어..

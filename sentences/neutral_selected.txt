@@ -1,0 +1,178 @@
+1. AI-Hub-multimodal/2401-2800/clip_2633/clip_2633.json|아니. 그냥 그래서 거깄던 마이크로 살짝 쳤는데. 쓰려졌어.
+2. AI-Hub-multimodal/1201-1600/clip_1556/clip_1556.json|그냥 그래서, 그때는 긴가민가 한 상태로 넘어갔어.
+3. AI-Hub-multimodal/2401-2800/clip_2782/clip_2782.json|뭐, 그냥 그래요.
+4. AI-Hub-multimodal/0401-0800/clip_613/clip_613.json|지난 번 방문 때에 비하면 훨씬 안정되고 차분해졌어요. 다만 대화할 때 상대방의 눈을 제대로 바라보지 못하고 동공을 이리저리 움직인다거나, 쉴 새 없이 손가락으로 팔뚝을 꼬집는 행동은 차차 고쳐나가야 할 것 같아요.
+6. AI-Hub-multimodal/0001-0400/clip_98/clip_98.json|아직 원서 쓸 때까지 시간 좀 있으니까. 차분히 말씀드려봐.
+7. AI-Hub-multimodal/1201-1600/clip_1398/clip_1398.json|차분히 생각 좀 해보자.
+8. AI-Hub-multimodal/0401-0800/clip_476/clip_476.json|그건 그렇지. 너도 얼른 나와.
+10. AI-Hub-multimodal/2001-2400/clip_2055/clip_2055.json|나 다음 달부터 복싱 배우러 다닐 거야.
+11. AI-Hub-multimodal/1201-1600/clip_1549/clip_1549.json|천 삼백 원 정도요.
+12. AI-Hub-multimodal/1201-1600/clip_1504/clip_1504.json|얼른 가서 전해줘.
+14. AI-Hub-multimodal/5601-6000/clip_5800/clip_5800.json|그 성질 불같은 게, 간호사 선생님만 오면 수줍어하더라니까.
+15. AI-Hub-multimodal/3201-3600/clip_3399/clip_3399.json|한 번 물어보죠.
+16. AI-Hub-multimodal/2001-2400/clip_2383/clip_2383.json|생각해 볼게.
+17. AI-Hub-multimodal/1201-1600/clip_1284/clip_1284.json|고모부한테 그럼 전화해서 물어 봐야겠다.
+18. AI-Hub-multimodal/1201-1600/clip_1427/clip_1427.json|뱀도 있어.
+19. AI-Hub-multimodal/1201-1600/clip_1540/clip_1540.json|다른 여러가지 변인들이 또 있지만, 기본적으론 그렇대.
+20. AI-Hub-multimodal/3201-3600/clip_3318/clip_3318.json|네. 어린이 요금이라서 오백원이면 돼요.
+21. AI-Hub-multimodal/2401-2800/clip_2725/clip_2725.json|최용일입니다.
+22. AI-Hub-multimodal/4401-4800/clip_4667/clip_4667.json|어이. 이리 와봐.
+23. AI-Hub-multimodal/3201-3600/clip_3280/clip_3280.json|나 클렌징 있는데 빌려줄까?
+24. AI-Hub-multimodal/5201-5600/clip_5442/clip_5442.json|25만원이요.
+25. AI-Hub-multimodal/0401-0800/clip_681/clip_681.json|네. 뭐랄까. 필사적이에요.
+26.  AI-Hub-multimodal/0401-0800/clip_452/clip_452.json|다낭, 요새 인기 좋네 재빈이도 다낭 간다 던데.
+27. AI-Hub-multimodal/0001-0400/clip_110/clip_110.json|이름 들었는데 까먹었네.
+28. AI-Hub-multimodal/2401-2800/clip_2721/clip_2721.json|그거 원래 그랬어요.
+29. AI-Hub-multimodal/2401-2800/clip_2793/clip_2793.json|너무 다그치지 말고 기다려 봅시다.
+31. AI-Hub-multimodal/2801-3200/clip_2941/clip_2941.json|형님. 지난 번에 발주처 계약서 이메일 포워딩 좀 부탁드립니다.
+32. AI-Hub-multimodal/1201-1600/clip_1332/clip_1332.json|이모~ 요즘 유행하는 영화 뭐 봤어?
+33. AI-Hub-multimodal/5601-6000/clip_5666/clip_5666.json|저는 가족들이 다 서울로 이사와서, 	이제 울산에서 안 만나요.
+34. AI-Hub-multimodal/5601-6000/clip_5711/clip_5711.json|전혀 아니에요. 저는 밤에는 그냥 누워 있습니다.
+35. AI-Hub-multimodal/2401-2800/clip_2628/clip_2628.json|그럼 이제 제가 게임에 대해 설명해 드리겠습니다. 여러분은 김전일 일보 기자들입니다.
+36. AI-Hub-multimodal/4801-5200/clip_4903/clip_4903.json|  저희는 목격자가 없다는 사실에서, 이 뒷산을 주목하기 시작하였습니다.
+37. AI-Hub-multimodal/5201-5600/clip_5240/clip_5240.json|네, 잘 부탁드리겠습니다.
+38. AI-Hub-multimodal/0401-0800/clip_441/clip_441.json|아. 네 선배. 저는 괜찮습니다.
+40. AI-Hub-multimodal/0001-0400/clip_182/clip_182.json| 네. 그러면 저는 가보겠습니다. 형사님 통해서 다시 연락드릴게요. 들어가세요.
+41. AI-Hub-multimodal/0801-1200/clip_1147/clip_1147.json|네, 아까 다른 인턴분들이랑 같이 먹고 왔습니다. 팀장님은 식사 하셨나요?
+42. AI-Hub-multimodal/0001-0400/clip_189/clip_189.json|한 동안은 무리하지 마시고 천천히. 일상생활 하시면 될 것 같습니다.
+43. AI-Hub-multimodal/0001-0400/clip_77/clip_77.json|알겠습니다. 결제하신 카드 주시겠습니까.
+44. AI-Hub-multimodal/0001-0400/clip_137/clip_137.json|네, 그럼 다음에 다시 뵙겠습니다.
+45. AI-Hub-multimodal/5201-5600/clip_5239/clip_5239.json|실험 자료는 정리해서 메일로 보내놨습니다. 초안은 지난 번 탬플릿 대로           정박사님께서 잡아주시기로 하셨고요. 아참, 과사에서 연락 왔는데 성적입력 	내일까지 꼭 해주셔야 한답니다.
+46. AI-Hub-multimodal/0401-0800/clip_640/clip_640.json|아이고, 뭘요. 집도 이 근처인데요 뭐. 괜찮습니다.
+47. AI-Hub-multimodal/0001-0400/clip_86/clip_86.json| 여기. [한 남자]가 있습니다.
+48. AI-Hub-multimodal/5601-6000/clip_5852/clip_5852.json|네. 알겠습니다.
+49. AI-Hub-multimodal/0401-0800/clip_565/clip_565.json|의식을 잃지는 않습니다. 보통 다 기억해요.
+50. AI-Hub-multimodal/3601-4000/clip_3927/clip_3927.json|아 그럼 먼저 들어가겠습니다. 내일 뵙겠습니다.
+52. AI-Hub-multimodal/0801-1200/clip_949/clip_949.json|네. 네. 그렇습니다. 고객님.
+53. AI-Hub-multimodal/0801-1200/clip_1160/clip_1160.json|네. 알겠습니다. 그래도 저 워홀 가려면 몇 달 남기는 했으니까 종종 놀러와서 매상 올려 드릴게요.
+54. AI-Hub-multimodal/2401-2800/clip_2636/clip_2636.json|그것도 문제가 되니까요. 제가 확인하겠습니다.
+55. AI-Hub-multimodal/2401-2800/clip_2639/clip_2639.json|그럼… 저는 정리 된 걸로 생각하고 가보겠습니다. 살펴가세요.
+56. AI-Hub-multimodal/2401-2800/clip_2769/clip_2769.json|안쪽 제일 큰 방에 세팅해두었습니다.
+57. AI-Hub-multimodal/0001-0400/clip_85/clip_85.json|네 생크림 맞습니다.
+58. AI-Hub-multimodal/5601-6000/clip_5775/clip_5775.json|우리끼리당, 김숙자 의원님. 인터뷰 시작하겠습니다.
+59. AI-Hub-multimodal/2801-3200/clip_2994/clip_2994.json|드신거요. 오늘 총 다해서 24만원 나왔습니다.
+60. AI-Hub-multimodal/1601-2000/clip_1816/clip_1816.json|알겠습니다. 그럼 일단 그거 고려해서…  다른 문항들도 여기 종이에 체크를 미리 해주세요.
+61. AI-Hub-multimodal/4401-4800/clip_4534/clip_4534.json|알겠습니다. 아버지.
+62. AI-Hub-multimodal/1601-2000/clip_1645/clip_1645.json|저 마지막으로 하나만 더 여쭙겠습니다.
+63. AI-Hub-multimodal/0801-1200/clip_1152/clip_1152.json|아, 그 때 제가 잠깐 교환학생 다녀올 일이 있어서, 부득이 그만뒀습니다.
+64. AI-Hub-multimodal/2801-3200/clip_2984/clip_2984.json|그렇게 크게 키울 일은 아닌 거 같습니다.
+65. AI-Hub-multimodal/5201-5600/clip_5316/clip_5316.json|네 알고 있습니다.
+66. AI-Hub-multimodal/2401-2800/clip_2657/clip_2657.json|어머니. 저한테 말씀하셔도 소용 없습니다.
+67. AI-Hub-multimodal/5201-5600/clip_5316/clip_5316.json|저, 인권 전문지에 기자로 취직하게 됐어요.  저 먹고 살 걱정은 안해주셔도 될 것 같습니다.	 많은 기삿거리 던져주셔서 감사합니다.
+68. AI-Hub-multimodal/0401-0800/clip_640/clip_640.json|괜찮습니다. 제 와이프가 약국을 하고 있어서, 건강 보조 식품은 종류별로 안 먹어본 게 없어요. 여기 제품들도 몇 개 먹어 봤구요.
+69. AI-Hub-multimodal/3201-3600/clip_3357/clip_3357.json|학교 지금 다니고 있지 않아서 괜찮습니다.
+70. AI-Hub-multimodal/2001-2400/clip_2273/clip_2273.json|네. 네. 알았습니다. 그럼 저희가 일단 접수 하겠고요. 뭐 비슷한 케이스가 또 발생하거나 하면, 조사해서 연락 드리겠습니다.
+71. AI-Hub-multimodal/4801-5200/clip_5060/clip_5060.json|음. 어머니는 돌아가셨고, 아버지는 재혼을 하셨습니다.        오빠 한 명이 있는데, 고등학생이라서 얘기는 잘 못 해요.
+72. AI-Hub-multimodal/0401-0800/clip_463/clip_463.json|앞으론 제가 배달 오니까요. 잘 부탁드리겠습니다.
+73. AI-Hub-multimodal/5601-6000/clip_5611/clip_5611.json| 네. 잘 알아 들었습니다.	 저 이제 가봐도 되는 거죠?
+74. AI-Hub-multimodal/2001-2400/clip_2270/clip_2270.json|관련법이 제정되어서… 행원은 고객님의 개인정보 열람이 어렵습니다.
+75. AI-Hub-multimodal/5601-6000/clip_5719/clip_5719.json|예. 조금만 참으십시오 회장님.         회장님 피해 보신거, 위에서 다 알고 있습니다.
+76. AI-Hub-multimodal/0001-0400/clip_201/clip_201.json|네. 물새는 건 고쳤고요. 월요일 되면, 그래도 보일러 회사에 전화 한번 해서 점검 받아보셔야 할 것 같습니다.
+77. AI-Hub-multimodal/0001-0400/clip_135/clip_135.json|예, 안 그래도 그러시려나보다, 싶었습니다.
+78. AI-Hub-multimodal/5601-6000/clip_5765/clip_5765.json|계속 글 쓰고 있습니다.     	 그런데… 선생님.
+80. AI-Hub-multimodal/0001-0400/clip_200/clip_200.json| 출혈로 위험할 수 있었는데, 보호자 분이 잘 지혈해주신 상태로 내원해서 다행이었습니다.
+81. AI-Hub-multimodal/4001-4400/clip_4189/clip_4189.json|네 알겠습니다. 조금만 기다리세요.
+82. AI-Hub-multimodal/5601-6000/clip_5881/clip_5881.json|예 알겠습니다. 제가 한 번 얘기해볼게요.
+83. AI-Hub-multimodal/5601-6000/clip_5966/clip_5966.json|아니요. 전 이선영 누나 동생하고 같은 반이었습니다.
+84. AI-Hub-multimodal/5201-5600/clip_5239/clip_5239.json|네, 그럼 저 오늘은 퇴근해보겠습니다.
+85. AI-Hub-multimodal/3201-3600/clip_3592/clip_3592.json|네. 두 분다 잘 계세요. 저도 뭐 별일 없습니다.
+87. AI-Hub-multimodal/0801-1200/clip_1152/clip_1152.json|네 맞아요. 근무 시간 긴 대신 시급도 높다고 해서 지원하게 되었습니다.
+88. AI-Hub-multimodal/2801-3200/clip_3163/clip_3163.json|네 알겠습니다.
+89. AI-Hub-multimodal/2801-3200/clip_3191/clip_3191.json|다녀왔습니다.
+90. AI-Hub-multimodal/4801-5200/clip_4892/clip_4892.json|예. 저는 뭐 괜찮습니다. 다음에 또 마셔도 되고요.
+91. AI-Hub-multimodal/0801-1200/clip_1144/clip_1144.json|예, 알겠습니다. 천천히 불러 주세요.
+92. AI-Hub-multimodal/2001-2400/clip_2296/clip_2296.json|교수님, 교내 신문 인터뷰 때문에 찾아왔습니다.
+93. AI-Hub-multimodal/0001-0400/clip_141/clip_141.json|뒷번호 네 자리만 1932번으로 바뀌었습니다.
+94. AI-Hub-multimodal/4401-4800/clip_4599/clip_4599.json|폐기는 원래 드리거나 판매하고 있지 않습니다.
+96. AI-Hub-multimodal/5201-5600/clip_5315/clip_5315.json|아, 네, 저 점심까지 과제 채점하고 그 이후에 정해진 스케쥴은 없습니다.
+97. AI-Hub-multimodal/0801-1200/clip_1146/clip_1146.json|네, 맞습니다. 인사 1팀으로 배정 해주셨어요.
+98. AI-Hub-multimodal/5601-6000/clip_5722/clip_5722.json|합의만 해 주시면 합의금은 섭섭하지 않게 드리겠습니다.
+99. AI-Hub-multimodal/0401-0800/clip_450/clip_450.json|저는 메일로 알려주시면 감사하겠습니다.
+100. AI-Hub-multimodal/0401-0800/clip_463/clip_463.json|지연씨는 급한 사정으로 그만두시게 됐고요. 앞으로 화랑로는 제가 배달하게 됐습니다.
+AI-Hub-multimodal/0801-1200/clip_1127/clip_1127.json|네. 맞아요. 제가 이번에 대학원 입학하는데 추천서가 필요해서요.
+AI-Hub-multimodal/2001-2400/clip_2055/clip_2055.json|나 다음 달부터 복싱 배우러 다닐 거야.
+AI-Hub-multimodal/0801-1200/clip_874/clip_874.json|네. 그래서 풀다가 포기한 애들도 있다고 그랬어요.
+AI-Hub-multimodal/5201-5600/clip_5287/clip_5287.json|네. 일단은 미국에서 박사 따고, 한국 돌아와서 교수 자리 알아봐야죠.
+AI-Hub-multimodal/4801-5200/clip_4877/clip_4877.json|아니 그냥 어른 되면 여행 많이 다니나 싶어서요.
+AI-Hub-multimodal/0001-0400/clip_222/clip_222.json|네. 최근에 프랑스 작가 쓴 ‘마녀’라는 책을 읽었는데요 거기에 이런 구절이 나와요.  ‘새로운 것들은 모두 사탄이다. 죄가 아닌 진보는 없다.’
+AI-Hub-multimodal/0001-0400/clip_92/clip_92.json|인터넷으로 샀으면 나 구매 기록 보여줘.
+AI-Hub-multimodal/0401-0800/clip_769/clip_769.json|너는 이상하게 요리를 잘 못해.
+AI-Hub-multimodal/1201-1600/clip_1540/clip_1540.json|다른 여러가지 변인들이 또 있지만, 기본적으론 그렇대.
+AI-Hub-multimodal/3201-3600/clip_3318/clip_3318.json|네. 어린이 요금이라서 오백원이면 돼요.
+AI-Hub-multimodal/0401-0800/clip_441/clip_441.json|첫 날이라 내가 맛있는 거 사주려고 했지.
+AI-Hub-multimodal/0801-1200/clip_1104/clip_1104.json|시험 끝나면 우리 학교 축제 한 번 놀러와.
+AI-Hub-multimodal/1601-2000/clip_1778/clip_1778.json|뭔데. 나도 마실래.
+AI-Hub-multimodal/0801-1200/clip_835/clip_835.json|근데 아까 막 종이에 적은건 뭐야.
+AI-Hub-multimodal/2401-2800/clip_2499/clip_2499.json|편의점 가면 요새는 감기약도 팔아요.
+AI-Hub-multimodal/1601-2000/clip_1767/clip_1767.json|샤워기 세게 틀어서 비눗기가 하나도 남지 않을 때까지 충분히 씻어 내야지.
+AI-Hub-multimodal/0001-0400/clip_61/clip_61.json|쟤! 저기 지금 벤치 밑으로 들어간 애.
+AI-Hub-multimodal/0801-1200/clip_1070/clip_1070.json|예찬이네 삼촌이야.
+AI-Hub-multimodal/1201-1600/clip_1385/clip_1385.json|이번에는 제대로 된 이유가 있더라구요.
+AI-Hub-multimodal/4001-4400/clip_4098/clip_4098.json|필요한 거 있으면 얘기해. 내가 도울 수 있을만큼 도와줄게.
+AI-Hub-multimodal/4401-4800/clip_4672/clip_4672.json|아니요. 고등학교는 검정고시로 이미 통과하셨구요, 대학교요.
+AI-Hub-multimodal/0801-1200/clip_919/clip_919.json|노래는 잘 못해. 근데 립싱크 하면 되잖아.
+AI-Hub-multimodal/0801-1200/clip_927/clip_927.json|네. 이번 금요일 안에 연락 드릴게요.
+AI-Hub-multimodal/4001-4400/clip_4156/clip_4156.json|그럼 에센스? 갈색병 유명하다던데.
+AI-Hub-multimodal/1201-1600/clip_1362/clip_1362.json|응. 요즘 좀 몸보신을 해야겠다는 생각이 들어서.
+AI-Hub-multimodal/5201-5600/clip_5285/clip_5285.json|음, 이정석 교수님도 가시고, 김수한 교수님도 가신대요.
+AI-Hub-multimodal/4401-4800/clip_4631/clip_4631.json|어, 그냥. 아무 생각이 안드네.
+AI-Hub-multimodal/5201-5600/clip_5273/clip_5273.json|저희집이 5남매거든요.	 저 하나 안 간다고, 티도 안 나요.
+AI-Hub-multimodal/5601-6000/clip_5703/clip_5703.json|그러면 그 때가서 한 번 보자고.
+AI-Hub-multimodal/3601-4000/clip_3919/clip_3919.json|네 그럼 알겠어요. 한 번 만나서 얘기 해볼게요.
+AI-Hub-multimodal/5601-6000/clip_5744/clip_5744.json|꺼지기 전에 재결제를 하던가, 	처음부터 후불로 하던가 해야돼요.
+AI-Hub-multimodal/0001-0400/clip_102/clip_102.json|아니야. 예전에 내가 [팬더위키]에서 봤어. 자막 만들 때 들은 걸로 하는 거래.
+AI-Hub-multimodal/1201-1600/clip_1426/clip_1426.json|전에 방송 보니까 그런 사람들이 있대.
+AI-Hub-multimodal/1201-1600/clip_1238/clip_1238.json|그럼 수술을 해도 안전한건가?
+AI-Hub-multimodal/0001-0400/clip_110/clip_110.json|이름 들었는데 까먹었네.
+AI-Hub-multimodal/2401-2800/clip_2793/clip_2793.json|너무 다그치지 말고 기다려 봅시다.
+AI-Hub-multimodal/2801-3200/clip_2941/clip_2941.json|형님. 지난 번에 발주처 계약서 이메일 포워딩 좀 부탁드립니다.
+AI-Hub-multimodal/2001-2400/clip_2051/clip_2051.json|아뇨, 은평초등학교 다녀요.
+AI-Hub-multimodal/1201-1600/clip_1555/clip_1555.json|장조림만 먹었지, 뭐 거의 그대로 남았네.
+AI-Hub-multimodal/1201-1600/clip_1468/clip_1468.json|걱정마라. 약 먹고 조금 쉬면 나을 거야. 별 거 아닐거야.
+AI-Hub-multimodal/5201-5600/clip_5308/clip_5308.json|기사님, 네비 찍힌 거 말고, 아리랑 고개로 해서 넘어가 주세요.
+AI-Hub-multimodal/3601-4000/clip_3641/clip_3641.json|그래 그럼 가서 숙제 해.
+AI-Hub-multimodal/1201-1600/clip_1209/clip_1209.json|우연이 계속되면 필연이라고 그랬어.
+AI-Hub-multimodal/1201-1600/clip_1297/clip_1297.json|어느 나라 사람이야?
+AI-Hub-multimodal/5201-5600/clip_5533/clip_5533.json|요즘 애들이 그렇죠 뭐.
+AI-Hub-multimodal/3201-3600/clip_3563/clip_3563.json|나중에 결과 나오면 고모도 알려줘.
+AI-Hub-multimodal/1201-1600/clip_1418/clip_1418.json|여기는 찻 집이 이렇게 다 방으로 되어 있잖아.
+AI-Hub-multimodal/1601-2000/clip_1988/clip_1988.json|잠자리도 잡고, 매미도 잡고.
+AI-Hub-multimodal/0801-1200/clip_803/clip_803.json|용이랑 호랑이 그려진 건 비싸.
+AI-Hub-multimodal/5601-6000/clip_5711/clip_5711.json|전혀 아니에요. 저는 밤에는 그냥 누워 있습니다.
+AI-Hub-multimodal/1201-1600/clip_1281/clip_1281.json|도영이 학원을, 친구들이 다니는 데로 옮겨주면 안되냐고 물어보면 되지.
+AI-Hub-multimodal/2001-2400/clip_2377/clip_2377.json|응. 형은 전기 면도기 써.
+AI-Hub-multimodal/2001-2400/clip_2292/clip_2292.json|교수님, 다른 의도로 준비한 건 아니니까 부담없이 참석해주세요.
+AI-Hub-multimodal/3601-4000/clip_3687/clip_3687.json|신분증 부탁드립니다.
+AI-Hub-multimodal/2401-2800/clip_2771/clip_2771.json|있어요. 제목은 너를 찾아줘예요.
+AI-Hub-multimodal/0401-0800/clip_480/clip_480.json|나 진지해. 얼른 돈 모아서 집 사고 싶어.
+AI-Hub-multimodal/1201-1600/clip_1239/clip_1239.json|아니. 이번 주말에는 일이 좀 있네.
+AI-Hub-multimodal/3201-3600/clip_3395/clip_3395.json|이제 슬슬 할 때가 된 것 같은데.
+AI-Hub-multimodal/2801-3200/clip_3065/clip_3065.json|그래도 자주 못 보면 보고 싶겠다.
+AI-Hub-multimodal/0401-0800/clip_609/clip_609.json|응, 같이 밥도 먹고 나 일하는 곳도 좀 보여줄 겸 해서 광화문으로 불렀어.
+AI-Hub-multimodal/0001-0400/clip_137/clip_137.json|그렇군요. 혹시 레벨 테스트 같은 게 있나요?
+AI-Hub-multimodal/0401-0800/clip_407/clip_407.json|응 뭐 사정이 있었을 순 있겠지
+AI-Hub-multimodal/0001-0400/clip_161/clip_161.json|제가 몇 가지 물을 건데요.
+AI-Hub-multimodal/1201-1600/clip_1304/clip_1304.json|은행에서는 민수가 준 돈으로, 또 돈을 버는 거야.
+AI-Hub-multimodal/0801-1200/clip_941/clip_941.json|네. 빨간 모자 쓰고 왔었죠.
+AI-Hub-multimodal/1201-1600/clip_1491/clip_1491.json|응. 그래야겠다. 너는 축구 안 좋아해?
+AI-Hub-multimodal/2001-2400/clip_2321/clip_2321.json|그렇지. 오늘도 있다가 PC방 가기로 했어.
+AI-Hub-multimodal/0801-1200/clip_860/clip_860.json|문과가 좀 그렇긴 하지. 돈 잘 벌려면 이과로 가야 해.
+AI-Hub-multimodal/1201-1600/clip_1397/clip_1397.json|응. 이따가 가는 길에 소화제나 하나 사먹지 뭐.
+AI-Hub-multimodal/0401-0800/clip_551/clip_551.json|응. 나 자복 주스 먹고 싶어.
+AI-Hub-multimodal/1201-1600/clip_1589/clip_1589.json|어 알지. 너 고등학교때 맨날 집에 놀러 와서 라면 끓여달라고 했던 애.
+AI-Hub-multimodal/2001-2400/clip_2242/clip_2242.json|왼쪽 구석을 유심히 보세요.
+AI-Hub-multimodal/2801-3200/clip_3077/clip_3077.json| 5시 30분. 이제 곧 나오겠다.
+AI-Hub-multimodal/0001-0400/clip_71/clip_71.json|거기서 샀어요
+AI-Hub-multimodal/2001-2400/clip_2383/clip_2383.json|엄마는 모르지. 엄마는 게임을 안하는데.
+AI-Hub-multimodal/0401-0800/clip_582/clip_582.json|운동이 당연히 힘들지.
+AI-Hub-multimodal/5601-6000/clip_5911/clip_5911.json|내가 아버지 칠순 지장없게 할게.
+AI-Hub-multimodal/0001-0400/clip_30/clip_30.json|주문하시겠어요?
+AI-Hub-multimodal/2401-2800/clip_2628/clip_2628.json|그럼 이제 제가 게임에 대해 설명해 드리겠습니다. 여러분은 김전일 일보 기자들입니다.
+AI-Hub-multimodal/5601-6000/clip_5954/clip_5954.json|예쁘긴 하지.  그럼 얼음공주라고 저장해야겠다.
+AI-Hub-multimodal/3201-3600/clip_3466/clip_3466.json|후라이드 치킨 먹고 싶어.
+AI-Hub-multimodal/5201-5600/clip_5540/clip_5540.json| 이거, 글자 좀 키워줘 봐.
+AI-Hub-multimodal/0801-1200/clip_949/clip_949.json|그러면 자동으로 이체가 되나요?
+AI-Hub-multimodal/1201-1600/clip_1235/clip_1235.json|그래도 선거운동이 얼마나 중요한데 별 수 있나.
+AI-Hub-multimodal/0801-1200/clip_896/clip_896.json|미리 공부해 봐야겠다.
+AI-Hub-multimodal/4401-4800/clip_4766/clip_4766.json|제가 꼬마한테 전해줄게요.
+AI-Hub-multimodal/0801-1200/clip_1020/clip_1020.json|그래. 그 한의원 추천해줘야 겠다.

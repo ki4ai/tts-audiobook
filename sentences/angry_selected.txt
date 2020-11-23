@@ -1,0 +1,177 @@
+1. AI-Hub-multimodal/5601-6000/clip_5643/clip_5643.json| 그러니까! 그게 대체 언젯적 일인데,
+2. AI-Hub-multimodal/1601-2000/clip_1882/clip_1882.json|아! 진짜 환장하겠네. 무슨 방귀를 뀌었다고 난
+3. AI-Hub-multimodal/2801-3200/clip_2849/clip_2849.json|미쳤냐? 그건 당연한거고!
+4. AI-Hub-multimodal/1601-2000/clip_1882/clip_1882.json|또 또 또! 또 시작한다… 취직이 안되는 게 내 잘못이야?
+5. AI-Hub-multimodal/0401-0800/clip_416/clip_416.json|또! 엄마한테 존댓말 하랬지!
+6. AI-Hub-multimodal/3201-3600/clip_3208/clip_3208.json| 아 정말!  내가 나이가 몇인데 이렇게 잔소리 먹고 살아야합니까!	 내가 알아서 한다구요.
+7. AI-Hub-multimodal/1201-1600/clip_1319/clip_1319.json|에이! 고모는 동파육 맛만 봤다!
+8. AI-Hub-multimodal/0401-0800/clip_438/clip_438.json|선생님이 숙제를 손 글씨로 안 써오면 안된다고 미리 얘기 했어?
+9. AI-Hub-multimodal/4401-4800/clip_4402/clip_4402.json| 아 참! 됐어요!	 이 나이 먹고도 자식 걱정이셔.
+10. AI-Hub-multimodal/1601-2000/clip_1890/clip_1890.json|이 놈이 진짜!
+11. AI-Hub-multimodal/2001-2400/clip_2268/clip_2268.json|아니, 넌 정신을 어디다가 두고 다니냐! 젊은애가! 벌써부터 이러면 어떡해! 으휴!
+12. AI-Hub-multimodal/5601-6000/clip_5775/clip_5775.json|당장 나가!
+13. AI-Hub-multimodal/3201-3600/clip_3255/clip_3255.json|아 진짜! 내가 언제 고3이라고 다 해달라 했어?	 내가 있다 치운다니까 왜 그래!
+15. AI-Hub-multimodal/5201-5600/clip_5314/clip_5314.json|아 이번엔 내 잘못이 아니라니까! 약사가 수면제가 들은 감기약을 줬잖아. 내가 분명히 물어봤는데…… 그게 그 사람 잘못이지, 그거 믿고 먹은 내 잘못이냐!
+16. AI-Hub-multimodal/2001-2400/clip_2129/clip_2129.json|돼지? 야! 누구 보고 돼지래? 진짜 돼지가.
+17. AI-Hub-multimodal/3201-3600/clip_3537/clip_3537.json|아 사준다고 했잖아!!!
+18. AI-Hub-multimodal/2001-2400/clip_2367/clip_2367.json|그래! 나 미쳤다 어쩔래!
+19. AI-Hub-multimodal/4001-4400/clip_4257/clip_4257.json|그건 그런데! 오빠가 맨날 괴롭히잖아!
+20. AI-Hub-multimodal/2001-2400/clip_2219/clip_2219.json|안 달라져도.. 화를 내야 바뀌지!
+21. AI-Hub-multimodal/4001-4400/clip_4342/clip_4342.json|야! 너 뭐 나한테 돈 맡겨 놨어?
+22. AI-Hub-multimodal/2401-2800/clip_2505/clip_2505.json|제가 바보인 줄 아시냐고요! 왜 동현이만 만원 주셨어요? 저는 오천원 주셨으면서! 제가 누나라고요!
+23. AI-Hub-multimodal/2801-3200/clip_2963/clip_2963.json|왜! 왜! 내가 왜 그래야 되는데!
+25. AI-Hub-multimodal/3601-4000/clip_3855/clip_3855.json|아 누구한테 전화를 해! 엄마가 선도부한테 전화해줄거야??
+26. AI-Hub-multimodal/4801-5200/clip_5012/clip_5012.json|그럼 할머니가 할머니 방에 들어가면 되잖아요! 할머니 그리고 우리 엄마한테 사과해요!
+27. AI-Hub-multimodal/3601-4000/clip_3625/clip_3625.json|왜 이러세요? 왜 이러는지 몰라서 물어??
+28. AI-Hub-multimodal/4801-5200/clip_5175/clip_5175.json|아니 그거 말고! 거짓말친거! 	처음부터 관심 있었던 척 하지 말라고!
+29. AI-Hub-multimodal/4401-4800/clip_4415/clip_4415.json|정신이 없긴. 일부러 안 받은 거 아니야!	 월세 어떻게 됐어!
+30. AI-Hub-multimodal/2001-2400/clip_2381/clip_2381.json|형이 먼저 버릇없이 굴었잖아!
+31. AI-Hub-multimodal/2801-3200/clip_2835/clip_2835.json|야! 너 진짜 오늘 죽어볼래?!
+32. AI-Hub-multimodal/1201-1600/clip_1286/clip_1286.json|왜 누나는 사주고 나는 안 사주는데!
+33. AI-Hub-multimodal/3201-3600/clip_3238/clip_3238.json|아, 쫌! 급하다고! 여기서 쌀까?!
+34. AI-Hub-multimodal/2801-3200/clip_3002/clip_3002.json|쓰지 말라고! 사람들이 내 얘기 떠드는 거 싫다고!
+35. AI-Hub-multimodal/5601-6000/clip_5631/clip_5631.json|아니, 나가시라니까요? 여기, 업장이에요.      이렇게 불법적으로 과자 판매하시면 안돼요.
+36. AI-Hub-multimodal/0801-1200/clip_1117/clip_1117.json|야! 내가 그래도 명색이 한국대학교 학생인데 널 못 가르치겠냐?
+37. AI-Hub-multimodal/5601-6000/clip_5631/clip_5631.json|됐고, 다른 가게 가서 파세요. 저희 가게는 안 돼요.        저 이 가게 내려고 빚 많이 졌거든요?       할머니 때문에 망하기 싫어요. 썩 나가세요.
+38. AI-Hub-multimodal/4801-5200/clip_4808/clip_4808.json| 너무하신다고요!        아니, 사모님은 뭉치랑 코코한텐        한 달에 백 만원이 넘게 쓰시면서       몇 년을 같이 일해온 저한테, 그 정도도 못 해주세요?
+39. AI-Hub-multimodal/4801-5200/clip_4811/clip_4811.json| 야! 너 무슨 소리를 하는거야?       우리 관계 알려지면, 너한테도 좋을거 없어.        스승이랑 자는 사이인거 알려져서, 좋을 게 있어?
+40. AI-Hub-multimodal/2001-2400/clip_2264/clip_2264.json|제철이 불러다가, 소고기 먹이고, 커피 타주고, 과일까지 까 먹인거 생각하면 내가 분해서 속에서 열불이 나!
+41. AI-Hub-multimodal/4001-4400/clip_4210/clip_4210.json|미쳤나 그 자식?!?! 빌라는 왜 정현이가 갖고 있는데? 희진이는 어쩌고?
+42. AI-Hub-multimodal/1601-2000/clip_1789/clip_1789.json|말없이 가져오면! 돼 안돼? 허락도 없이 남의 물건에 손대면 그건 도둑질이야. 그걸 몰라?
+43. -AI-Hub-multimodal/2801-3200/clip_3186/clip_3186.json|옷??? 옷장 가득한 게 다 니 옷인데 무슨 옷이야!
+44. AI-Hub-multimodal/2801-3200/clip_3169/clip_3169.json|몰라?! 근데 오늘 왜 이렇게 결혼 얘기를 해 갑자기?
+45. AI-Hub-multimodal/5601-6000/clip_5900/clip_5900.json|그래서, 애를 간호해줬는데. 그럼 애는 어딨습니까 지금?        애 엄마한테 전화해서, 애 우는 소리는 왜 들려줬냐구요!
+46. AI-Hub-multimodal/1601-2000/clip_1725/clip_1725.json|이 사람이 진짜… 보자보자 하니까! 내가 돈 벌어 오느라 이리 뛰고 저리 뛰느라 그런 거 아니야!
+47. AI-Hub-multimodal/2001-2400/clip_2004/clip_2004.json|아가씨! 내가 몇 번을 말해요. 사람 불렀으니까 올 거라고. 오면 그 사람한테 말해요. 내가 뭘 안다고 나한테 자꾸 화풀이에요?
+48. AI-Hub-multimodal/4001-4400/clip_4363/clip_4363.json|앞으로 하면 될 거 아니야!
+49. AI-Hub-multimodal/0401-0800/clip_404/clip_404.json|이럴 때만 존댓말 하지! 너 엄마가 숙제 미리 하랬잖아!
+50. AI-Hub-multimodal/2801-3200/clip_2874/clip_2874.json|앉아서 쿵쾅댔잖아! 피아노로!
+51. AI-Hub-multimodal/2801-3200/clip_2950/clip_2950.json|인간 쓰레기? 너 말 다했어?
+52. AI-Hub-multimodal/0801-1200/clip_1171/clip_1171.json|아유! 답답해.
+55. AI-Hub-multimodal/2801-3200/clip_2853/clip_2853.json|내가 언제 쌍욕을 했다고 그래? 쌍욕 해줘?
+56. AI-Hub-multimodal/2801-3200/clip_2812/clip_2812.json|맞다. 왜!
+57. AI-Hub-multimodal/1601-2000/clip_1889/clip_1889.json| 맞아야지! 정신차리지! 맞아야!
+58. AI-Hub-multimodal/2801-3200/clip_2976/clip_2976.json|야! 내가 호퍼 비우고, 새 원두 채우라고 그렇게 신신 당부를 했는데!
+59. AI-Hub-multimodal/5601-6000/clip_5813/clip_5813.json|야! 너 진짜, 할머니한테 같이 가야겠다.         어? 따라와.
+61. AI-Hub-multimodal/5601-6000/clip_5753/clip_5753.json|... 나... ?너네같은 쓰레기들 때문에, 인생 망친 피해자다.
+66. AI-Hub-multimodal/4401-4800/clip_4461/clip_4461.json|아…! 거의 다 그렸는데. 눈을 깜빡이면 어떻게 해요.
+67. AI-Hub-multimodal/2801-3200/clip_2835/clip_2835.json|생사람 잡지 마세요!
+68. AI-Hub-multimodal/2801-3200/clip_3081/clip_3081.json|어! 안 먹을테니까 조용히하고 혼자서 시켜 먹으라고! 	  몇살이냐. 진짜 귀찮게하네. 
+69. AI-Hub-multimodal/4401-4800/clip_4758/clip_4758.json|기영씨? 아주 막가자는 거에요?
+70. AI-Hub-multimodal/2801-3200/clip_2851/clip_2851.json|내가 가게 안쪽은 들어가지 말라고 했잖아!
+71. AI-Hub-multimodal/0001-0400/clip_127/clip_127.json|나도 이러고 싶어서 이래? 잘 해보려고 하는 거잖아!
+72. AI-Hub-multimodal/0001-0400/clip_41/clip_41.json|아무리 그래도 그렇지. 너는 얼마나 샀어?
+73. AI-Hub-multimodal/5601-6000/clip_5812/clip_5812.json|야! 너는 니가 잘난 줄 알지? 응?         고작 중학생밖에 안 된 녀석이.         넌 뭐가 그렇게 잘났어?         뭐가 그렇게 잘나서, 애들을 괴롭히냐고.        너희 부모님은 니가 이런거 아시니?
+74. AI-Hub-multimodal/2401-2800/clip_2720/clip_2720.json|야! 너는 애비도 없냐?!
+75. AI-Hub-multimodal/2001-2400/clip_2026/clip_2026.json|몇 년이나 했냐 네 엄마가 일을? 어? 몇 년이나 했냐고!
+76.AI-Hub-multimodal/2801-3200/clip_2820/clip_2820.json|적어! 안 적으면 안 보내줄거야!
+77. AI-Hub-multimodal/2001-2400/clip_2232/clip_2232.json|아, 엄마!!! 엄마가 이렇게 돌아버린 것도 화가 나는데… 이제 나까지 미쳐버리게 만들려고 그래?!!
+78. AI-Hub-multimodal/4801-5200/clip_5136/clip_5136.json|아니거든! 	 오빠도 나랑 네 살 차이밖에 안나면서!
+79. AI-Hub-multimodal/2801-3200/clip_2947/clip_2947.json|어깨가 빠져? 어디 한 번 봅시다 그 어깨! 누굴 사기꾼으로 몰아?!
+80. AI-Hub-multimodal/1201-1600/clip_1476/clip_1476.json|할머니가 지금, 진짜! 마지막! 으로 물어볼거야, 너 솔직히 말해. 봤지?
+81. AI-Hub-multimodal/2801-3200/clip_2817/clip_2817.json|너 어디 살아! 부모님은 어디 계셔!
+82. AI-Hub-multimodal/3601-4000/clip_3887/clip_3887.json|와. 죽치고 있는다고요?	 제가 여기 왜 오는 지 아세요? 자리 많아서에요.  커피 맛 드럽게 없는데, 그래서 손님이 없으니까, 눈치는 안 봐도 되겠네, 싶어서 오는 거라구요.
+83. AI-Hub-multimodal/5201-5600/clip_5451/clip_5451.json|다른 애들이 다 니가 그랬다잖아! 	니가 그런게 아니면 애들이 왜 니가 그랬다고 그래!
+84. AI-Hub-multimodal/2801-3200/clip_2836/clip_2836.json|제가 못 할 줄 아세요? 당장 내일 학교 가자마자 여기 오지말라고 소문낼거에요!
+85. AI-Hub-multimodal/0801-1200/clip_1182/clip_1182.json|으휴. 내가 걔 생각만 하면!
+86. AI-Hub-multimodal/2001-2400/clip_2263/clip_2263.json|네! 저 한 성깔 해요! 어쩌실래요?
+87. AI-Hub-multimodal/1601-2000/clip_1881/clip_1881.json|왜 생사람 잡고 난리야!
+88. AI-Hub-multimodal/2801-3200/clip_2947/clip_2947.json|뭐? 야? 너야말로 사람 잘못 만났다!
+89. AI-Hub-multimodal/2801-3200/clip_2874/clip_2874.json|내가 지금 소리 안 지르게 생겼냐?!
+90. AI-Hub-multimodal/2001-2400/clip_2304/clip_2304.json|이 놈 자식!
+91. AI-Hub-multimodal/1601-2000/clip_1777/clip_1777.json|네것도 아닌데 그걸 네가 왜 먹어!
+93. AI-Hub-multimodal/2001-2400/clip_2004/clip_2004.json|이게? 야! 넌 애비도 없냐?
+94. AI-Hub-multimodal/2401-2800/clip_2728/clip_2728.json|내가 써놓기만 했냐? 들어가기전에 주의 사항 다 일러줬잖아!
+95. AI-Hub-multimodal/3201-3600/clip_3584/clip_3584.json|아 진짜로 아니라니까요!
+96. AI-Hub-multimodal/0401-0800/clip_791/clip_791.json|뭐가 되긴! 내가 가만 안둘거야.
+97. AI-Hub-multimodal/0801-1200/clip_1088/clip_1088.json|아니, 나중에 하나 사다 주면 될 거 아니야!!
+98. AI-Hub-multimodal/2801-3200/clip_2938/clip_2938.json|근데? 내가 차를 긁었다고 나왔어? 나왔냐고!!!
+AI-Hub-multimodal/1601-2000/clip_1882/clip_1882.json|아! 진짜 환장하겠네. 무슨 방귀를 뀌었다고 난리야. 엄마가 뀌고 괜히 나한테 덮어씌우려고 하는 거 아니야?
+AI-Hub-multimodal/4401-4800/clip_4548/clip_4548.json|사장님…. 제가 말씀 안 드리려고 했는데.         자꾸 그런 식으로 말씀하시니까 말씀드리는건데요.
+AI-Hub-multimodal/2801-3200/clip_2849/clip_2849.json|미쳤냐? 그건 당연한거고!
+AI-Hub-multimodal/1601-2000/clip_1882/clip_1882.json|또 또 또! 또 시작한다… 취직이 안되는 게 내 잘못이야?
+AI-Hub-multimodal/3201-3600/clip_3232/clip_3232.json|벌써부터 이렇게 감싸고 도는 것 봐?
+AI-Hub-multimodal/3601-4000/clip_3790/clip_3790.json|어휴. 아무튼 그 극성맞은 엄마들이 문제야. 애들이 나가서 뛰어놀고 해야지.             맨날 학원에 과외에 시험에.
+AI-Hub-multimodal/2401-2800/clip_2553/clip_2553.json|나 화났어. 기분 나빠.
+AI-Hub-multimodal/3201-3600/clip_3247/clip_3247.json| 뭐라고 했냐?
+AI-Hub-multimodal/0001-0400/clip_131/clip_131.json|너만 주말이야? 나도 주말이야. 일주일 내내 뼈빠지게 일했어, 나도!
+AI-Hub-multimodal/0401-0800/clip_416/clip_416.json|또! 엄마한테 존댓말 하랬지!
+AI-Hub-multimodal/0801-1200/clip_1089/clip_1089.json|아 진짜…. 내 노트북 만지지 말라고 했지 내가!! 내걸로 뭐 했는데?
+AI-Hub-multimodal/3601-4000/clip_3786/clip_3786.json|저… 저놈이. 내가 누군지 아냐고!
+AI-Hub-multimodal/0401-0800/clip_404/clip_404.json|엄마가 뭐라고 했어? 숙제하고 놀랬어 놀고나서 숙제하랬어!
+AI-Hub-multimodal/0401-0800/clip_559/clip_559.json|이강인! 아빠가 하지 말라고 했지! 아빠가 자꾸 똑같은 소리 계속 하게 만들래?
+AI-Hub-multimodal/3201-3600/clip_3208/clip_3208.json| 아 정말!  내가 나이가 몇인데 이렇게 잔소리 먹고 살아야합니까!	 내가 알아서 한다구요.
+AI-Hub-multimodal/2001-2400/clip_2301/clip_2301.json| 당신이 먼저 끼어들어서 내 차를 들이 박았잖아!
+AI-Hub-multimodal/4801-5200/clip_4881/clip_4881.json| 헛소리 하지마 임마.        세상 사는 게 그렇게 간단해? 어?       집안 안 좋아도, 열심히 공부하고 노력해서 사는 사람 많아.      니 처지를 그딴식으로 포장하지 말라고.
+AI-Hub-multimodal/5201-5600/clip_5502/clip_5502.json|이 놈의 자식이.	 엄마 협박하는 거야?
+AI-Hub-multimodal/3201-3600/clip_3330/clip_3330.json|아 안 먹었다니까??? 아 진짜 답답해 미치겠네???
+AI-Hub-multimodal/2001-2400/clip_2007/clip_2007.json|이율배반적이지 않냐? 정작 너가 실천할 수 있는 일은 안 하면서, 돈만 내면 된다 이거야? 속편하게?
+AI-Hub-multimodal/1201-1600/clip_1309/clip_1309.json|뭐? 치사해? 어른한테 무슨 말버릇이야?
+AI-Hub-multimodal/2001-2400/clip_2010/clip_2010.json|그럼… 계속 이렇게 당하고 살라는 말씀이세요?
+AI-Hub-multimodal/3601-4000/clip_3625/clip_3625.json|교양?  너 진짜 미쳤구나.   이게 어디서 교양을 찾아.  교양 찾을 자격이나 될 거 같아 니 따위 게??
+AI-Hub-multimodal/3601-4000/clip_3871/clip_3871.json|솔직히 까놓고 말해서 운동화가 한 켤레 밖에 없는 사람이 어딨어?
+AI-Hub-multimodal/2001-2400/clip_2072/clip_2072.json|그동안 봐 줬더니 이게 막 기어오르네?
+AI-Hub-multimodal/2801-3200/clip_2978/clip_2978.json|보채? 야. 너 딱지한번 끊어 볼래?
+AI-Hub-multimodal/5601-6000/clip_5766/clip_5766.json|오냐, 오냐 해줬더니, 내 머리 위로 기어올라?        	내가 너한테, 인세를 왜 줘?
+AI-Hub-multimodal/3201-3600/clip_3262/clip_3262.json|미쳤냐? 애들 졸라 꾸미고 올텐데.
+AI-Hub-multimodal/3201-3600/clip_3255/clip_3255.json|아 진짜! 내가 언제 고3이라고 다 해달라 했어?	 내가 있다 치운다니까 왜 그래!
+AI-Hub-multimodal/2801-3200/clip_3022/clip_3022.json| 너는 왜 맨날 말을 그런 식으로 해?
+AI-Hub-multimodal/5201-5600/clip_5314/clip_5314.json|아 이번엔 내 잘못이 아니라니까! 약사가 수면제가 들은 감기약을 줬잖아. 내가 분명히 물어봤는데…… 그게 그 사람 잘못이지, 그거 믿고 먹은 내 잘못이냐!
+AI-Hub-multimodal/5601-6000/clip_5861/clip_5861.json|야 진짜. 세상에 이상한 사람이 왤케 많아?        진짜 다들 미친 것 같다니까?
+AI-Hub-multimodal/1601-2000/clip_1770/clip_1770.json|내가 뭐 강아지만 돌보는 사람이야? 나도 할 게 많아. 바쁘다고. 지금도 학습지 엄청 밀려서, 선생님 오기 전에 다 해야 되서 엄청 바빠!
+AI-Hub-multimodal/2801-3200/clip_2992/clip_2992.json|학교냐고. 여기 학교 아니야. 너처럼 일 대충해 버릇하면, 그냥 뒤가 없이 짤리는거야. 그걸 몰라?
+AI-Hub-multimodal/2801-3200/clip_2990/clip_2990.json|이게 진짜 맞을라고. 이장님한테 대머리 마왕이라고 문자했더만!
+AI-Hub-multimodal/2801-3200/clip_3002/clip_3002.json| 좀 맞자! 그걸 말이라고 하냐!
+AI-Hub-multimodal/2401-2800/clip_2710/clip_2710.json|그래.. 언제 나이 얘기 나오나 했다! 당신네 아들은 그렇게 잘 커서 본인이 직접 안 나오고 아버지를 내보냈어?!
+AI-Hub-multimodal/2801-3200/clip_3166/clip_3166.json|너 정신 안 차려? 너 고 2야. 미쳤어? 공부 안하니?
+AI-Hub-multimodal/2001-2400/clip_2367/clip_2367.json|그래! 나 미쳤다 어쩔래!
+AI-Hub-multimodal/3601-4000/clip_3749/clip_3749.json| 아니! 지금 그게 중요한 게 아니고! 걔가 얼평을 했다고!
+AI-Hub-multimodal/0801-1200/clip_1197/clip_1197.json|이거 순 날강도들 아니야?
+AI-Hub-multimodal/2401-2800/clip_2575/clip_2575.json|아줌마가 내 엄마야? 나도 참는데 한계가 있어!
+AI-Hub-multimodal/5601-6000/clip_5891/clip_5891.json|니가 뭘 안다고 그래? 어?       나이도 어린 놈이, 맨날 나한테 이래라 저래라.        내가 너도, 매일 밤마다 저주해. 알고 있니?
+AI-Hub-multimodal/2401-2800/clip_2505/clip_2505.json|제가 바보인 줄 아시냐고요! 왜 동현이만 만원 주셨어요? 저는 오천원 주셨으면서! 제가 누나라고요!
+AI-Hub-multimodal/2801-3200/clip_2963/clip_2963.json|왜! 왜! 내가 왜 그래야 되는데!
+AI-Hub-multimodal/2401-2800/clip_2597/clip_2597.json|안 알려줘도 상관 없지.. 내가 알아서 할게! 이 놈들을 내가 그냥…!!
+AI-Hub-multimodal/4801-5200/clip_4819/clip_4819.json|이놈의 짜식이. 	 너 계속 거짓말 칠 거야?
+AI-Hub-multimodal/2401-2800/clip_2501/clip_2501.json|제가 안 훔쳤다고 몇 번이나 말해요!
+AI-Hub-multimodal/0801-1200/clip_880/clip_880.json|뭐? 너 선생님한테 그게 무슨 말버릇이야!
+AI-Hub-multimodal/2801-3200/clip_2870/clip_2870.json|시비를 털어? 야. 너 어디 학교 다녀?
+AI-Hub-multimodal/3201-3600/clip_3364/clip_3364.json|아니, 제가 언제 이렇게 하라고 했어요.  이렇게 하지 말라고, 주의사항 정리해가며 메세지도 보냈는데. 그리고, 보고서 이렇게 던져놓고 그냥 퇴근해버리면 다에요?
+AI-Hub-multimodal/5601-6000/clip_5940/clip_5940.json|어. 그러니까 진짜 그만 해라? 유치해서 못 참아주겠다.
+AI-Hub-multimodal/3601-4000/clip_3905/clip_3905.json|뭐야? 야 너 몇 살이야? 나이도 어려보이는데 이게 진짜.         내가 살다살다 이런 놈은 또 처음 보네. 야 너 그따구로 살지 마. 
+AI-Hub-multimodal/5601-6000/clip_5836/clip_5836.json|아니, 무슨 일처리를 그렇게 하세요?
+AI-Hub-multimodal/2801-3200/clip_3158/clip_3158.json| 그럼 제가 환청이라도 들었다는 말씀이세요? 왜 거짓말을 하세요?
+AI-Hub-multimodal/5601-6000/clip_5674/clip_5674.json|진짜 애에요. 저한테는 진짜 자식 같은 아이거든요?        지금 무시하는 거에요?
+AI-Hub-multimodal/4801-5200/clip_4987/clip_4987.json|그래 마셨다! 음주 그네 좀 타면 안되냐?!
+AI-Hub-multimodal/2801-3200/clip_3161/clip_3161.json|넌 나 보면 밥 달라는 얘기밖에 안 나오냐? 너 때문에 얼굴 다 뒤집어진 거잖아!
+AI-Hub-multimodal/0001-0400/clip_41/clip_41.json|너 지금 그걸 말이라고 해?!
+AI-Hub-multimodal/1601-2000/clip_1826/clip_1826.json|뭐? 주식? 너 진짜 미쳤니?
+AI-Hub-multimodal/2801-3200/clip_3147/clip_3147.json|야 니가 지금 물불 가릴 때냐?
+AI-Hub-multimodal/1601-2000/clip_1883/clip_1883.json|나라고 여기서 이렇게 살고 싶어? 다른 집은 서른 넘으니까 다 집 하나씩 척척 해주던데!
+AI-Hub-multimodal/2001-2400/clip_2348/clip_2348.json|어린 녀석이 그렇게 눈을 부라리면 어쩔 거야? 니가 그렇게 행동하고 다닐수록 엄마 욕 먹이는 거 밖에 더 되니?
+AI-Hub-multimodal/5601-6000/clip_5856/clip_5856.json|뭐라고? 야. 너 말 다 했어?
+AI-Hub-multimodal/2801-3200/clip_2829/clip_2829.json|그게 뭐가 오해에요? 사실이잖아요!사실을 올리는 것도 안돼요?
+AI-Hub-multimodal/5601-6000/clip_5853/clip_5853.json|네. 진짜. 저만 미워하는 것 같다니까요?        아니 내가 뭘 그렇게 잘못했는지 모르겠어.         내가 지보다 예뻐서 그런가?
+AI-Hub-multimodal/5601-6000/clip_5811/clip_5811.json|뭐라구요? 환불이 안 된다고요?        뭐 이런 가게가 다 있어?
+AI-Hub-multimodal/2401-2800/clip_2737/clip_2737.json|보채지말라고 그러니까. 니가 열받게 하잖아 지금 나를!
+AI-Hub-multimodal/1601-2000/clip_1904/clip_1904.json|아니, 지금 내가 고운 말 하게 생겼어? 우리 상대로 등 처먹고, 전화까지 씹는데?
+AI-Hub-multimodal/1601-2000/clip_1825/clip_1825.json|뭐? 이 놈의 자식, 뚫린 입이라고 잘도 나불댄다! 그래 어디 더 말해봐? 뭐가 어쩌고 어째?
+AI-Hub-multimodal/3601-4000/clip_3625/clip_3625.json|왜 이러세요? 왜 이러는지 몰라서 물어??
+AI-Hub-multimodal/2801-3200/clip_3200/clip_3200.json|형이 그렇게 공부도 잘 하고 선생님들한테 잘 하고 하면 그걸 좀 보고 배워야지. 너는 어째 반대로만 하니?
+AI-Hub-multimodal/2801-3200/clip_2967/clip_2967.json|지금 뭐라고 하셨어요? 성깔머리요?
+AI-Hub-multimodal/2801-3200/clip_2813/clip_2813.json|아.. 저는 인격도 없고 부끄러움도 모르는 사람이에요? 그냥 학생이니까?
+AI-Hub-multimodal/0801-1200/clip_846/clip_846.json|그럼 옛날 사람이지 지금 사람이냐?
+AI-Hub-multimodal/0801-1200/clip_1024/clip_1024.json|우리도 자식이자 부모인데, 이해가 돼? 자식을 두고 떠난다는 게?
+AI-Hub-multimodal/2801-3200/clip_2835/clip_2835.json|야! 너 진짜 오늘 죽어볼래?!
+AI-Hub-multimodal/2801-3200/clip_2954/clip_2954.json|니가 뭘 잘못했는데? 바람 핀 거? 나한테 거짓말한 거? 나 상처준 거?
+AI-Hub-multimodal/2801-3200/clip_2975/clip_2975.json|야 너 회사가 우습냐?
+AI-Hub-multimodal/2801-3200/clip_3002/clip_3002.json|쓰지 말라고! 사람들이 내 얘기 떠드는 거 싫다고!
+AI-Hub-multimodal/2001-2400/clip_2105/clip_2105.json|뭐가 문젠데? 남사스럽게 저렇게 짧은 치마를 입고 다니라고 손녀한테 하라고?
+AI-Hub-multimodal/2401-2800/clip_2721/clip_2721.json|어디서 소리 소리를 지르세요? 그만두지 못해?
+AI-Hub-multimodal/2801-3200/clip_2923/clip_2923.json|이 따위? 진짜 나도 못 참겠다! 야! 니가 뭔데 이래!
+AI-Hub-multimodal/3601-4000/clip_3921/clip_3921.json|누구 편은 임마. 넌 왜 그렇게 날로 먹을려고 하냐?
+AI-Hub-multimodal/2401-2800/clip_2516/clip_2516.json|너 말고 누가 있어? 그럼 할머니가 말했겠냐? 어? 대답해봐!
+AI-Hub-multimodal/4801-5200/clip_4987/clip_4987.json|어른은 그네도 못 타?	 안 그래도 갈 곳 없어서 서러운데 여기서까지 쫓겨나야 되?
+AI-Hub-multimodal/5601-6000/clip_5740/clip_5740.json|동생한테도 안 내준 가게를? 너한테? 	야 착각하지마.
+AI-Hub-multimodal/1601-2000/clip_1925/clip_1925.json|하… 이놈의 자식이 정말….. 너 지금 나 협박하는 거냐 지금? 어?
+AI-Hub-multimodal/5601-6000/clip_5832/clip_5832.json| 아저씨 누렁이 뼈밖에 안 남은 거 안 보이세요?	 그래놓고 아저씨는 배 터지게 점심 먹었죠?	 어떻게 사람이 그래요?

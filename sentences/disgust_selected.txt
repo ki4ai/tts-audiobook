@@ -1,0 +1,142 @@
+2. AI-Hub-multimodal/3601-4000/clip_3662/clip_3662.json|더러워. 왜 주워요?
+3. AI-Hub-multimodal/1601-2000/clip_1856/clip_1856.json|아이, 삼촌, 방 좀 깨끗하게 써! 진짜 더러워 죽겠네.
+4. AI-Hub-multimodal/2001-2400/clip_2142/clip_2142.json|쓰지말라고 했잖아! 짜증나… 이거 더러워져서 어떻게 베고 자!
+5. AI-Hub-multimodal/3601-4000/clip_3772/clip_3772.json|아니 커피에서 파리가 나왔어요. 대체 커피 내리는 기계가 얼마나 더러우면 커피에서 파리가 나와?
+6. AI-Hub-multimodal/4001-4400/clip_4262/clip_4262.json|아 더러워!
+7. AI-Hub-multimodal/2001-2400/clip_2135/clip_2135.json|어. 더러워!
+8. AI-Hub-multimodal/2401-2800/clip_2732/clip_2732.json|태도가 아니잖아요 태도가. 부탁하는 것도 아니고. 꼭 내가 잘못한 것 마냥 말하면서. 아..  기분 더러워.
+9. AI-Hub-multimodal/2001-2400/clip_2261/clip_2261.json|안 먹는다! 안 먹어! 더러워서 진짜… 으휴!
+10. AI-Hub-multimodal/2801-3200/clip_3165/clip_3165.json|좀 빨리 해요. 오줌마려 죽겠는데 화장실이 더러워서 쓸 수가 없네 정말. 내가 여기 프랜차이즈라서 깔끔하고 종업원 친절하고 그래서 오는 건데, 이딴 식이면 다시는 안 오죠. 물론 학생은 알바생이라 상관 없겠지만. 그래도 사회생활 하면 이런거에 책임감을 가지고 그래야 되는거예요. 알겠어요?
+11. AI-Hub-multimodal/3201-3600/clip_3261/clip_3261.json|으 더러워. 걔네 땀 졸라 흘리잖아. 냄새 엄청 날듯.
+13. AI-Hub-multimodal/4801-5200/clip_4993/clip_4993.json|혼자 깨끗한 척은 다 하는데, 	아니. 자기 몸은 깨끗한 거 맞는데, 방은 진짜 더러워요.
+14. AI-Hub-multimodal/5601-6000/clip_5802/clip_5802.json|아저씨 변태 맞잖아요. 아저씨 같은 사람들 때문에       여자들이 짧은 치마를 못 입는다고요.       으…. 더러워.
+16. AI-Hub-multimodal/1201-1600/clip_1519/clip_1519.json|진호는 책상도 더럽더라..
+18. AI-Hub-multimodal/5601-6000/clip_5623/clip_5623.json|아 아줌마 진짜 더럽게.
+19. AI-Hub-multimodal/1201-1600/clip_1519/clip_1519.json|응... 진짜 더럽더라고...
+20. AI-Hub-multimodal/0401-0800/clip_540/clip_540.json|청소 좀 잘 해라, 이 녀석아. 방이 이렇게 더럽냐.
+22. AI-Hub-multimodal/3201-3600/clip_3509/clip_3509.json|담배 냄새 나잖아. 가까이 오지 마.
+23. AI-Hub-multimodal/4401-4800/clip_4735/clip_4735.json|내 말이… 아니 그리고, 사람들이 왤케 변기 물을 안 내리는 거야?        더럽지도 않나.
+24. AI-Hub-multimodal/2001-2400/clip_2146/clip_2146.json|더럽잖아!
+25. AI-Hub-multimodal/5601-6000/clip_5623/clip_5623.json|아 진짜 아줌마 더럽게 정말! 		오늘 일진 더럽네 정말!
+28. AI-Hub-multimodal/2401-2800/clip_2407/clip_2407.json|너 자꾸 바닥에 뭐 흘리고 더럽게 먹을래?
+31. AI-Hub-multimodal/4001-4400/clip_4052/clip_4052.json|너가 무슨 돼지야. 정우진 걔가 돼지지. 더럽게 생겨가지고.
+32. AI-Hub-multimodal/4401-4800/clip_4472/clip_4472.json|윽…그거 인스턴트잖아요.
+33. AI-Hub-multimodal/2401-2800/clip_2778/clip_2778.json|윽. 요즘 그런 노래 누가 들어요.
+37. AI-Hub-multimodal/2801-3200/clip_3153/clip_3153.json|니가 생각해도 징그럽지. 사회에 심각한 해를 끼치는 거라고. 	길가다 안구테러 당할 사람들을 생각해봐.
+38. AI-Hub-multimodal/0401-0800/clip_765/clip_765.json|징그러워.  아휴 난 싫어.
+39. AI-Hub-multimodal/2801-3200/clip_2914/clip_2914.json|나 아직 어린데 무슨 벌써부터 결혼 얘기를 해. 징그럽게…
+40. AI-Hub-multimodal/1201-1600/clip_1479/clip_1479.json|그렇지? 내가 생각해도 징그럽다.
+41. AI-Hub-multimodal/1601-2000/clip_1873/clip_1873.json|그러게. 커서도 똑같아, 징글징글한 인간들.
+42. AI-Hub-multimodal/1201-1600/clip_1369/clip_1369.json|까맣게...? 징그러운 소리 하지마.
+43. AI-Hub-multimodal/2001-2400/clip_2278/clip_2278.json|귀엽긴 뭐가 귀여워. 징그럽고만.
+44. AI-Hub-multimodal/1201-1600/clip_1479/clip_1479.json|으악. 그렇게 생각하니까 그건 어쩐지 너무 징그러운데요.
+45. AI-Hub-multimodal/2401-2800/clip_2500/clip_2500.json|네… 제가 뱀을 엄청~ 엄청~ 싫어하거든요. 그리고 뱀 허물도 오늘 처음 봤는데… 너무 징그러웠어요.
+46. AI-Hub-multimodal/2001-2400/clip_2024/clip_2024.json|징그럽게 무슨 짝이야. 내가 초등학생도 아니고.
+48. AI-Hub-multimodal/3201-3600/clip_3348/clip_3348.json|으 가기 싫어.
+50. AI-Hub-multimodal/0801-1200/clip_888/clip_888.json|뭐? 징그럽게 왜 그래… 진짜 그런 소리 밖에 나가서 하지마. 부담스러워..
+51. AI-Hub-multimodal/1601-2000/clip_1988/clip_1988.json|아빠! 징그럽게 왜 자꾸 그래!
+52. AI-Hub-multimodal/3201-3600/clip_3496/clip_3496.json|아 뭐야, 징그러.
+53. AI-Hub-multimodal/5201-5600/clip_5344/clip_5344.json|걔네 삼촌보다 10살도 더 어려. 	내 또래야 내 또래. 징그러.
+54. AI-Hub-multimodal/2001-2400/clip_2277/clip_2277.json|징그럽잖아. 다 큰 어른들끼리 무슨…
+55. AI-Hub-multimodal/3601-4000/clip_3619/clip_3619.json| 어우. 나 쥐 나오는 데선 살아도 바퀴벌레는 진짜 못 참겠더라.	 그 반들반들한, 그거 뭐라고 해야 돼. 등껍질? 그거 너무 징그러.
+56. AI-Hub-multimodal/1201-1600/clip_1277/clip_1277.json|갑자기 그런 소리 하지마. 징그러워.
+57. AI-Hub-multimodal/3601-4000/clip_3743/clip_3743.json|어우 진짜? 야, 아들이 서른 넘어서 그러면 좀 징그러울 거 같은데?
+58. AI-Hub-multimodal/4801-5200/clip_4876/clip_4876.json|아휴 징그러워.
+59. AI-Hub-multimodal/4001-4400/clip_4159/clip_4159.json|어휴 징글징글하다 진짜.       이모 그렇게 안 움직이니까, 뱃살이 안 빠지는 거야.
+60. AI-Hub-multimodal/4801-5200/clip_4827/clip_4827.json| 해봐. 한번. 	 능구렁이처럼 앞에선 엄마엄마 거리면서, 뒤에선 이러고 있었니?징그럽다 진짜.
+61. AI-Hub-multimodal/4801-5200/clip_5122/clip_5122.json|으. 징그러.
+62. AI-Hub-multimodal/1201-1600/clip_1532/clip_1532.json|토는 하겠지, 승무원이 어깨 누르는 건 또 아파 죽겠지. 너무 너무 최악이었어.
+64. AI-Hub-multimodal/0401-0800/clip_448/clip_448.json| 내 파스타에 그릇에 토한…
+65. AI-Hub-multimodal/4401-4800/clip_4465/clip_4465.json|토끼를 삶아요? 으.... 끔찍해. 토끼 불쌍해! 할아버지 나빠.
+66. AI-Hub-multimodal/2001-2400/clip_2076/clip_2076.json|생각만 해도 토 나와. 준비물 안 가져왔다고 때리는 것도 개 열받고.
+67. AI-Hub-multimodal/4001-4400/clip_4337/clip_4337.json| 어우야. 그게 뭐야 토 나오게.
+68. AI-Hub-multimodal/0001-0400/clip_163/clip_163.json| 아 나 속 너무 안 좋아졌어. 토할 것 같아.
+69. AI-Hub-multimodal/2801-3200/clip_3153/clip_3153.json|근데 진지하게 절대 저거 사지 말아라. 진짜 상상만 해도 끔찍하고 토나온다.
+70. AI-Hub-multimodal/0001-0400/clip_4/clip_4.json|어. 너 안 씻었냐? 아니면 방귀 뀐 거야? 아휴, 진짜 독하다.
+71. AI-Hub-multimodal/0801-1200/clip_910/clip_910.json|변태? 으.. 무슨 변태?
+72. AI-Hub-multimodal/2401-2800/clip_2468/clip_2468.json|으.. 옛날 사람..
+73. AI-Hub-multimodal/0001-0400/clip_28/clip_28.json|으.. 그럼 언니나 다 먹어..
+74. AI-Hub-multimodal/4801-5200/clip_4953/clip_4953.json|으..아직 초등학교도 한참 남았는데 대학이면…	 어휴 상상도 하기 싫다.
+75. AI-Hub-multimodal/0801-1200/clip_900/clip_900.json|으.. 우리 나라 인증 절차가 너무 복잡 하긴 해.
+76. AI-Hub-multimodal/2001-2400/clip_2190/clip_2190.json|응. 너무 싫어. 내가 걔들처럼 예전엔 아이였다는 생각만 해도… 으.. 뭔가 기분이 이상해진다니까.
+77. AI-Hub-multimodal/2801-3200/clip_2980/clip_2980.json|야 말 걸지 말고, 닥치고 있어. 아가리 똥내 나니까.
+79. AI-Hub-multimodal/2401-2800/clip_2616/clip_2616.json|너 같은 구라쟁이들은 말 마디 마디마다 역겨운 냄새가 나. 아주 쓰레기 같은 악취가 난다고!
+80. AI-Hub-multimodal/2001-2400/clip_2261/clip_2261.json|다행이다. 아빠 같은 남자 별로 없어서. 만약 세상 남자가 다 아빠 같았으면 진짜… 역겨웠을 거 같아.
+81. AI-Hub-multimodal/2401-2800/clip_2616/clip_2616.json|봐봐. 말 사이 사이 아주 거짓이 가득해! 역겹다 역겨워.
+82. AI-Hub-multimodal/2001-2400/clip_2373/clip_2373.json|싫어! 역겹게 왜 화장실을 같이 가
+AI-Hub-multimodal/2801-3200/clip_2900/clip_2900.json|어떻게 내 전화번호 알아내서 자꾸 연락하고, 술 마시자고 하잖아. 아, 진짜 짜증나.
+AI-Hub-multimodal/5601-6000/clip_5802/clip_5802.json|아저씨 변태 맞잖아요. 아저씨 같은 사람들 때문에       여자들이 짧은 치마를 못 입는다고요.       으…. 더러워.
+AI-Hub-multimodal/3201-3600/clip_3261/clip_3261.json|으 더러워. 걔네 땀 졸라 흘리잖아. 냄새 엄청 날듯.
+AI-Hub-multimodal/5601-6000/clip_5623/clip_5623.json|아 진짜 아줌마 더럽게 정말!                오늘 일진 더럽네 정말!
+AI-Hub-multimodal/2801-3200/clip_3040/clip_3040.json|아 진짜 더럽게 찝쩍대네. 난 그 쪽 마음에 안든다고.
+AI-Hub-multimodal/4401-4800/clip_4735/clip_4735.json|내 말이… 아니 그리고, 사람들이 왤케 변기 물을 안 내리는 거야?        더럽지도 않나.
+AI-Hub-multimodal/0001-0400/clip_298/clip_298.json|세상이 미쳐 돌아가는거지.. 너무 혐오스럽다 진짜
+AI-Hub-multimodal/2401-2800/clip_2616/clip_2616.json|너 같은 구라쟁이들은 말 마디 마디마다 역겨운 냄새가 나. 아주 쓰레기 같은 악취가 난다고!
+AI-Hub-multimodal/2001-2400/clip_2261/clip_2261.json|다행이다. 아빠 같은 남자 별로 없어서. 만약 세상 남자가 다 아빠 같았으면 진짜… 역겨웠을 거 같아.
+AI-Hub-multimodal/2401-2800/clip_2616/clip_2616.json|봐봐. 말 사이 사이 아주 거짓이 가득해! 역겹다 역겨워.
+AI-Hub-multimodal/0401-0800/clip_701/clip_701.json|그러면! 나도 너 화장실 쓰고 똥 냄새 역겹다고 방송에 대고 다 불까?
+AI-Hub-multimodal/3201-3600/clip_3509/clip_3509.json|으악. 삼촌 냄새 나.
+AI-Hub-multimodal/3601-4000/clip_3829/clip_3829.json|햄스터? 어휴. 걔네 너무 냄새 나.
+AI-Hub-multimodal/5201-5600/clip_5266/clip_5266.json|아 그거구나. 상한 거 아니야?       냄새 너무 심한데?
+AI-Hub-multimodal/5601-6000/clip_5752/clip_5752.json|그게 무슨 자랑이라고 그렇게         동네방네 다 떠벌리고 다니는 거에요?
+AI-Hub-multimodal/3201-3600/clip_3245/clip_3245.json| 우웩. 오줌 마시는 거 같애.
+AI-Hub-multimodal/0001-0400/clip_163/clip_163.json| 어우 소름돋아.
+AI-Hub-multimodal/2001-2400/clip_2225/clip_2225.json|야 소름끼치게 그런소리하지마.
+AI-Hub-multimodal/2001-2400/clip_2225/clip_2225.json|그래도 소름끼쳐 그만해.
+AI-Hub-multimodal/5201-5600/clip_5594/clip_5594.json|나는 바람피는 남자랑 절대 못 살아.       다른 여자 만졌던 손으로, 내 몸 만질 생각하면, 소름 끼쳐.
+AI-Hub-multimodal/5601-6000/clip_5862/clip_5862.json| 어. 나 진짜, 아직도 그 생각하면       온몸에 소름이 돋아.
+AI-Hub-multimodal/1601-2000/clip_1770/clip_1770.json|싫거든?
+AI-Hub-multimodal/0401-0800/clip_765/clip_765.json|징그러워.  아휴 난 싫어.
+AI-Hub-multimodal/0401-0800/clip_695/clip_695.json|나는 진짜 이런 거 너무 싫어. 삽겹살 집에 돼지 그림 있고, 양고기집에 양 그림 있는거!
+AI-Hub-multimodal/4401-4800/clip_4735/clip_4735.json|으, 생각도 하기 싫어.
+AI-Hub-multimodal/0801-1200/clip_1082/clip_1082.json|짜증나게 진짜! 아 싫으면 애초에 왜 물어보는데!
+AI-Hub-multimodal/3201-3600/clip_3262/clip_3262.json|아 싫어. 그거 내가 제일 아끼는 거란 말이야. 입고 싶으면 니가 사입어.
+AI-Hub-multimodal/2001-2400/clip_2076/clip_2076.json|전부 다 싫어. 끔찍해.
+AI-Hub-multimodal/2801-3200/clip_2968/clip_2968.json|더 싫어 그게! 뭘 보기만 해야. 변태같이.
+AI-Hub-multimodal/1201-1600/clip_1467/clip_1467.json|아이스크림이 제일 좋다고? 하지만 네 할머니는 아이스크림 싫어하잖아. 질색이야.
+AI-Hub-multimodal/1601-2000/clip_1626/clip_1626.json|아니… 아빠가 담배 피우는게 너무 싫어서… 집에 오면 아빠가 뽀뽀해달라고 그러는데… 너무 냄새나서 싫어…
+AI-Hub-multimodal/2001-2400/clip_2268/clip_2268.json|난 그 바닥에 누른 끈적한 기름의 느낌이 너무 싫어.
+AI-Hub-multimodal/2801-3200/clip_3057/clip_3057.json|으… 너무 싫을 것 같애.
+AI-Hub-multimodal/2401-2800/clip_2473/clip_2473.json|싫어요! 수련회라면 질색이에요!
+AI-Hub-multimodal/2401-2800/clip_2426/clip_2426.json|그리고 학교도 늦게 끝나고… 정말 싫다. 생각도 하기 싫어.
+AI-Hub-multimodal/2001-2400/clip_2019/clip_2019.json|그 선생님이 그때 뭐라고 했었냐면, 남편이 너무 싫어지니까, 반경 5미터 내에 그 인간이 보이면 구역질이 났었다고 했었거든.. 내가 지금 그래…
+AI-Hub-multimodal/1601-2000/clip_1865/clip_1865.json|아 나 삼촌이랑 진짜 얘기하기 싫어. 삼촌방으로 가주면 안 돼?
+AI-Hub-multimodal/0801-1200/clip_910/clip_910.json|그치? 아 마주치면 진짜 싫을거같아.
+AI-Hub-multimodal/0801-1200/clip_1117/clip_1117.json|아, 진짜 싫다고!
+AI-Hub-multimodal/2001-2400/clip_2339/clip_2339.json|어으… 진짜 싫었겠다.
+AI-Hub-multimodal/0001-0400/clip_37/clip_37.json|아, 난 그 말 진짜 싫어. 난 진짜 안할거거든.
+AI-Hub-multimodal/2801-3200/clip_3071/clip_3071.json|근데 생선 먹기 싫어. 생각만해도 비려.
+AI-Hub-multimodal/4801-5200/clip_5159/clip_5159.json|으악. 나는 그런거 보기 싫어.
+AI-Hub-multimodal/2801-3200/clip_3071/clip_3071.json|아 먹기 싫어. 생선 비려.
+AI-Hub-multimodal/0001-0400/clip_204/clip_204.json| 어우 싫어. 그냥 내놔. 빨게.
+AI-Hub-multimodal/1601-2000/clip_1979/clip_1979.json|아 진짜 듣기 싫다니까?
+AI-Hub-multimodal/1601-2000/clip_1667/clip_1667.json|근데 내 몸만 끈적거리는 게 싫은게 아니라, 끈적이는 걸 보는 것도 싫어하거든?
+AI-Hub-multimodal/2801-3200/clip_2973/clip_2973.json|됐어. 면상 치워. 꼴도 보기 싫어.
+AI-Hub-multimodal/2001-2400/clip_2014/clip_2014.json|왜 자꾸 쩝쩝 대시냐구요! 꼭 제가 이렇게 싫다고 소리내 말해야 알아 들으시겠어요? 몇 번이나 눈치 드렸잖아요.
+AI-Hub-multimodal/4001-4400/clip_4312/clip_4312.json|전 모기가 너무 싫어요.
+AI-Hub-multimodal/3601-4000/clip_3876/clip_3876.json|알겠어.  아 근데 진짜 싫어.
+AI-Hub-multimodal/2801-3200/clip_3082/clip_3082.json|돼지냄새 싫어.
+AI-Hub-multimodal/4001-4400/clip_4101/clip_4101.json|으 극혐. 나이 먹고 부모님한테 휘둘리는 거 제일 싫어.
+AI-Hub-multimodal/1601-2000/clip_1871/clip_1871.json|응. 삼촌한테 속고만 살았지. 삼촌은 약속을 잘 안지키잖아. 나는 그게 진짜 싫어.
+AI-Hub-multimodal/5601-6000/clip_5760/clip_5760.json|난 진짜 징글징글해.         뻑하면 향수냄새나 묻혀오고,     진짜 꼴도 보기 싫어 죽겠어.
+AI-Hub-multimodal/3201-3600/clip_3352/clip_3352.json|아 거미는 싫단 말이야. 이상하게 생겨가지고.
+AI-Hub-multimodal/5601-6000/clip_5754/clip_5754.json|꼴도 보기 싫으니까  얼른 꺼져.
+AI-Hub-multimodal/1601-2000/clip_1894/clip_1894.json|야! 내가 잔소리 안 하게 생겼어? 너만 화장실 들어갔다 나오면 아주 변기에서 동물 오줌 냄새가 진동을 해! 채소 먹기 싫으면, 물이라도 좀 많이 마셔라! 아주 진짜 성질난다. 성질나!
+AI-Hub-multimodal/1601-2000/clip_1659/clip_1659.json|앞 집 아저씨가, 땅꾼이었지. 그 인간이 매일 뱀을 잡아다 줘서, 아주 나는 뱀이라면 질색인데!
+AI-Hub-multimodal/1601-2000/clip_1914/clip_1914.json|확인을 하라고 확인을! 뚜껑 닫고 물내리고, 다시 열어서 일처리가 제대로 끝났나 확인을 하라고! 다른 사람 질색하게 만들지 말고! 너 회사에서도 이러니?
+AI-Hub-multimodal/2001-2400/clip_2114/clip_2114.json|말만 듣고.. 상상만 해도.. 너무 끔찍하다.. 할머니 수영장 옮기면 안 돼?
+AI-Hub-multimodal/4401-4800/clip_4745/clip_4745.json|근데 좀 끔찍하긴 하다. 어휴 너무 놀랐네.
+AI-Hub-multimodal/2801-3200/clip_3153/clip_3153.json|근데 진지하게 절대 저거 사지 말아라. 진짜 상상만 해도 끔찍하고 토나온다.
+AI-Hub-multimodal/3601-4000/clip_3753/clip_3753.json|생각만 해도 끔찍하네. 나도 전에 부모님 모시고 베트남 한 번 갔다가 죽는 줄 알았어.
+AI-Hub-multimodal/2801-3200/clip_2930/clip_2930.json|축구 좀 해보려고 했더니… 별 끔찍한 사람을 다 만나네!
+AI-Hub-multimodal/1201-1600/clip_1515/clip_1515.json|진짜 끔찍해.
+AI-Hub-multimodal/1201-1600/clip_1530/clip_1530.json| 무슨 그런 생각을 해. 끔찍하게.
+AI-Hub-multimodal/2001-2400/clip_2095/clip_2095.json|남의 음식에 손을 댄다는 말이지? 아, 진짜 끔찍하다..
+AI-Hub-multimodal/4401-4800/clip_4465/clip_4465.json|토끼를 삶아요? 으.... 끔찍해. 토끼 불쌍해! 할아버지 나빠.
+AI-Hub-multimodal/5601-6000/clip_5955/clip_5955.json|아 그건 너고. 남들이 오해한단 말이야.         애들이 엄청 물어볼걸?       으… 생각만 해도 끔찍해.
+AI-Hub-multimodal/1201-1600/clip_1479/clip_1479.json|으악. 그렇게 생각하니까 그건 어쩐지 너무 징그러운데요.
+AI-Hub-multimodal/1601-2000/clip_1988/clip_1988.json|아빠! 징그럽게 왜 자꾸 그래!
+AI-Hub-multimodal/4801-5200/clip_5122/clip_5122.json|으. 징그러.
+AI-Hub-multimodal/4801-5200/clip_4876/clip_4876.json|아휴 징그러워.
+AI-Hub-multimodal/3201-3600/clip_3260/clip_3260.json|아 언니 극혐. 개기긴 뭘 개겨
+AI-Hub-multimodal/4801-5200/clip_5045/clip_5045.json|그래. 너 평생 엄마가 시키는대로 할거야?         너 그러다가 마마보이 돼. 여자들이 제일 극혐하는 남자. 마마보이!

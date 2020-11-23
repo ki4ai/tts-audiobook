@@ -1,0 +1,155 @@
+1. AI-Hub-multimodal/2801-3200/clip_3058/clip_3058.json|좋아해.
+3. AI-Hub-multimodal/4001-4400/clip_4291/clip_4291.json|우와! 간식 나눠먹는 거 좋아요.        혹시 소율이가 무슨 간식 좋아하는 줄 아세요?
+4. AI-Hub-multimodal/0801-1200/clip_1043/clip_1043.json|처음엔 막 비싸다고 화냈는데, 내가 맨날 그림 그려서 문자로 보내주거든? 그럼 엄청 좋아해.
+6. AI-Hub-multimodal/4401-4800/clip_4508/clip_4508.json|진짜? 나 좋아. 영화관 가면, 팝콘도 먹을 수 있겠다!
+9. AI-Hub-multimodal/3201-3600/clip_3285/clip_3285.json|맞았어! 그리고 이 큰 바늘이 분이라고 하는 걸 알려주는 거야.  시우가 제일 좋아하는 만화 몇시에 하지?
+10. AI-Hub-multimodal/1201-1600/clip_1506/clip_1506.json|나 희정이가 누구 좋아하는지 알아냈어!
+11. AI-Hub-multimodal/3601-4000/clip_3641/clip_3641.json|공룡너겟! 좋아요!
+12. AI-Hub-multimodal/1601-2000/clip_1991/clip_1991.json|물놀이? 좋아! 계곡 가는거야?
+13. AI-Hub-multimodal/5201-5600/clip_5384/clip_5384.json|네 좋아요!
+14.AI-Hub-multimodal/1201-1600/clip_1255/clip_1255.json|엄마가 그러던데~ 너 걔가 너무 좋아서 울고 불고 했다며?
+15. AI-Hub-multimodal/2801-3200/clip_2902/clip_2902.json|그래서 끝나자마자 시원한 생맥주를 마시러 갔는데... 눈물이 막 나오려고 하는 거야. 너무 좋아서.
+16. AI-Hub-multimodal/0801-1200/clip_892/clip_892.json|몰라 암튼 기분이 너무 좋아!
+17. AI-Hub-multimodal/0401-0800/clip_496/clip_496.json|아니야! 난 이모가 나랑 같이 오랫동안 시간 보내줘서 너무 고맙고 좋아.
+18. AI-Hub-multimodal/5201-5600/clip_5572/clip_5572.json| 	많이 좋아해.
+19. AI-Hub-multimodal/4001-4400/clip_4263/clip_4263.json|어! 나 좋아!!! 오빠 최고!!
+20. AI-Hub-multimodal/0401-0800/clip_800/clip_800.json|엄마, 나는 엄마가 너무 좋아..
+21. AI-Hub-multimodal/5201-5600/clip_5522/clip_5522.json|근데 저는 치킨, 피자, 햄버거 	이런 것도 엄청 좋아해요!
+23. AI-Hub-multimodal/2401-2800/clip_2784/clip_2784.json|아니에요! 이 책 제가 진짜 좋아해요!
+24. AI-Hub-multimodal/1201-1600/clip_1478/clip_1478.json|네! 좋아요. 할머니랑 같이 가면 재미있을 거 같아요!
+25. AI-Hub-multimodal/0801-1200/clip_1148/clip_1148.json|네 좋아요! 제가 오늘도 고기 한 번 잘 구워 보겠습니다.
+27. AI-Hub-multimodal/4401-4800/clip_4765/clip_4765.json|좋아요! 제가 끓일게요. 할아버지는 쉬세요.
+28. AI-Hub-multimodal/3201-3600/clip_3270/clip_3270.json|좋아!
+29. AI-Hub-multimodal/2801-3200/clip_3025/clip_3025.json|좋아!
+30. AI-Hub-multimodal/2001-2400/clip_2400/clip_2400.json|어! 진짜, 진짜 좋아해.
+31. AI-Hub-multimodal/2401-2800/clip_2413/clip_2413.json|엄마는 흰 색 제일 좋아하지~ 왜?
+33. AI-Hub-multimodal/4001-4400/clip_4047/clip_4047.json|좋아!
+35. AI-Hub-multimodal/3601-4000/clip_3821/clip_3821.json|좋아!
+36. AI-Hub-multimodal/5201-5600/clip_5560/clip_5560.json|좋아요!
+37. AI-Hub-multimodal/0401-0800/clip_730/clip_730.json|그래! 좋아. 나 안 그래도 저번에 텐트 샀잖아. 원터치로 바로 펴지는 거. 그거 들고 가자.
+38.AI-Hub-multimodal/2401-2800/clip_2418/clip_2418.json|지금도 좋아~ 지금은 빨래 잘 하고, 설거지 잘 하고, 분리수거 잘 해서 좋지.
+39. AI-Hub-multimodal/2801-3200/clip_3199/clip_3199.json|생전 옷 같은거 신경도 안 쓰던 애가 오늘따라 이상하다고 했네. 아이구 우리 아들 좋아하는 사람 생겼네~
+41. AI-Hub-multimodal/0401-0800/clip_651/clip_651.json|응 좋아! 나는 진짜 시험은 싫은데 시험 끝나고 나서가 너무 좋아 짜릿해
+42. AI-Hub-multimodal/0401-0800/clip_549/clip_549.json|좋아! 무슨 영화 보러 갈건데?
+43. AI-Hub-multimodal/3201-3600/clip_3296/clip_3296.json|좋아! 엄마도 갈 수 있어?
+44. AI-Hub-multimodal/4801-5200/clip_5102/clip_5102.json|난 어느 방향으로든  좋아!
+48. AI-Hub-multimodal/2401-2800/clip_2523/clip_2523.json|저는 진짜 선생님이 너무 좋아요!
+49. AI-Hub-multimodal/0001-0400/clip_34/clip_34.json|좋아! 신난다. 너 무서운 놀이기구 잘 타지?
+50.AI-Hub-multimodal/0801-1200/clip_960/clip_960.json|오 좋아!
+51. AI-Hub-multimodal/0401-0800/clip_489/clip_489.json|진짜? 우와아!! 좋아!! 이모 최고야!
+53.AI-Hub-multimodal/0401-0800/clip_424/clip_424.json|나도! 이모랑 노는거 너무 좋아.
+54. AI-Hub-multimodal/5601-6000/clip_5642/clip_5642.json|나도 너 와서 좋다.	 다들 모르는 얼굴들이라, 혼자서 뻘쭘하면 어쩌지 했는데	 말동무가 생겨서 좋네!
+55. AI-Hub-multimodal/4401-4800/clip_4458/clip_4458.json|좋아요!
+56.AI-Hub-multimodal/2401-2800/clip_2412/clip_2412.json|아니야, 나 풀도 좋아하고 상추도 좋아하고. 내가 식물을 얼마나 좋아하는데! 나 잘 키울 수 있어.
+58. AI-Hub-multimodal/1601-2000/clip_1757/clip_1757.json|이거 무슨 냄새야! 냄새가 엄청 좋은데? 뭔가 엄청 맛있는 냄새가 나...
+59. AI-Hub-multimodal/3201-3600/clip_3264/clip_3264.json|헐 좋아. 완전 똑똑해. 얼른 가자!
+60.AI-Hub-multimodal/1201-1600/clip_1462/clip_1462.json|어! 우와! 미역국 너무 좋아요! 고맙습니다.
+62. AI-Hub-multimodal/1201-1600/clip_1280/clip_1280.json|우리 이 정도면~ 엄청 사이 좋은거지!
+63. AI-Hub-multimodal/5601-6000/clip_5843/clip_5843.json|수지 쌤. 너무 어렵게 생각하지 마세요. 좋은 아이디어는 원래 갑자기 딱! 찾아오는 법이거든요.
+64. AI-Hub-multimodal/5201-5600/clip_5577/clip_5577.json|어 진짜요?	 저 곱창 완전 좋아하는데!
+65. AI-Hub-multimodal/0801-1200/clip_1017/clip_1017.json|아니...좋지! 좋은게 더 많지. 같은 업계 사람이면 서로 이해도 해주고… 미래를 같이 도모 할 수 있잖아. 좋은 일이 훨씬 많지!
+66. AI-Hub-multimodal/0401-0800/clip_487/clip_487.json|우와, 신난다! 난 근데 그 중에서 피자가 제일 좋아.
+67. AI-Hub-multimodal/1201-1600/clip_1441/clip_1441.json|네, 좋아요 할머니! 할머니 최고야!
+68. AI-Hub-multimodal/5201-5600/clip_5472/clip_5472.json|네 좋아요!
+70. AI-Hub-multimodal/4401-4800/clip_4533/clip_4533.json|그지! 승자는 먼저 좋아하는 쪽이라고!
+72. AI-Hub-multimodal/1201-1600/clip_1404/clip_1404.json| 술 진창 마시고, 코 골며 자던 애가 이렇게 번듯하게 사는 거 보니까, 기분 좋다 야!
+73. AI-Hub-multimodal/4401-4800/clip_4464/clip_4464.json|할아버지가 좋아하시는 드라마도 볼 수 있어요!
+75. AI-Hub-multimodal/2801-3200/clip_2920/clip_2920.json|그래서 더 현장감 있고 좋지 않아? 이게 완전 단편영화 스태프의 심정이잖아!
+76. AI-Hub-multimodal/3201-3600/clip_3300/clip_3300.json|좋아! 나도 나중에 티비 나오고 싶어.
+AI-Hub-multimodal/0001-0400/clip_250/clip_250.json|나 이번 방학 때 부모님이랑 유럽 간다! 좋겠지 좋겠지?
+78. AI-Hub-multimodal/2801-3200/clip_2913/clip_2913.json|저는 돌아온지 좀 됐는데… 공항 공기가 너무 좋아서, 여기 카페에서 일하기로 했어요!
+79. AI-Hub-multimodal/4001-4400/clip_4057/clip_4057.json|우와 우리 둘 다 겨울에 태어났네!        나는 겨울에 태어나서 추운 거 좋아하는데.
+80. AI-Hub-multimodal/5201-5600/clip_5429/clip_5429.json|많으면 많을수록 좋죠!
+82. AI-Hub-multimodal/1201-1600/clip_1277/clip_1277.json|알았어. 안 놀릴게! 나도 니가 너무 좋아.
+84. AI-Hub-multimodal/0001-0400/clip_34/clip_34.json|난 좋지! 토요일도 좋고, 일요일도 좋아!
+86. AI-Hub-multimodal/4001-4400/clip_4079/clip_4079.json|좋다! 우리 지금 연습해볼까?
+87. AI-Hub-multimodal/1601-2000/clip_1790/clip_1790.json|당연히 좋죠! 와… 감사합니다.
+88. AI-Hub-multimodal/5201-5600/clip_5363/clip_5363.json| 좋아요! 전 치킨도 좋아하고, 오징어도 좋아해요! 	소세지는 통통해서 좋아요! 떡볶이에 라면도 넣어서 먹고 싶어요!	엄마는 라면도 못 먹게 해요..
+89. AI-Hub-multimodal/0401-0800/clip_684/clip_684.json|좋다!
+90. AI-Hub-multimodal/1201-1600/clip_1454/clip_1454.json|네 좋아요 할머니! 너무 맛있겠다!
+91. AI-Hub-multimodal/5201-5600/clip_5297/clip_5297.json|좋은 일이구먼!
+92. AI-Hub-multimodal/0001-0400/clip_327/clip_327.json|네 좋은 아침입니다 팀장님 안녕하세요!
+93. AI-Hub-multimodal/1601-2000/clip_1997/clip_1997.json|너 아빠 우습게 본다? 아빠가 어릴때는 얼마나 입담도 좋고 친구들이 나를 얼마나 좋아했다고!
+94. AI-Hub-multimodal/0001-0400/clip_327/clip_327.json|오 영수씨 좋은 아침!
+95. AI-Hub-multimodal/1201-1600/clip_1462/clip_1462.json|참치? 아니. 소고기 넣고 끓였지! 생일이니까. 소고기도 아주 좋은 걸로 썼어!
+96. AI-Hub-multimodal/2801-3200/clip_3001/clip_3001.json|오 좋아 좋아. 나 줘!
+97. AI-Hub-multimodal/3201-3600/clip_3253/clip_3253.json| 좋아좋아! 너랑 나랑 둘이??
+99. AI-Hub-multimodal/5601-6000/clip_5934/clip_5934.json|그쵸! 선배가 좋아할 줄 알았어.        선배 은근히 마이너 취향이네.
+100. AI-Hub-multimodal/4001-4400/clip_4216/clip_4216.json|아이, 그럼요. 좋습니다!
+AI-Hub-multimodal/4801-5200/clip_5037/clip_5037.json|요 며칠 할머니네서 지내는데 너무 행복했어.
+AI-Hub-multimodal/3601-4000/clip_3760/clip_3760.json|응. 내가 요즘 애들한테도 맨날 그런다니까. 엄마 너무 행복하다고. 애들도 요즘 내 표정이 너무 좋대. 막 저녁 때도 그냥 티비 보고 그런게 아니라 대본 연습하니까… 너무 좋더라.
+AI-Hub-multimodal/0001-0400/clip_128/clip_128.json|그런 법칙이 있었어? 어쩐지... 너무 맛있더라, 요즘. 도시락 먹는 시간이 행복해.
+AI-Hub-multimodal/3201-3600/clip_3460/clip_3460.json|저 지금 행복해요 할아버지.
+AI-Hub-multimodal/2401-2800/clip_2414/clip_2414.json|으유~ 수영아, 엄마는 마음만으로도 너무너무 고맙고 기특하다니깐! 신발 못샀다고 그렇게 풀죽어 있지 마! 엄마는 수영이가 엄마 딸이라서 너무 행복해. 고마워. 수영이가 엄마 선물인걸.
+AI-Hub-multimodal/4001-4400/clip_4354/clip_4354.json|선생님은 수지가 있어서, 교생 기간 내내 매일매일 행복했어.
+AI-Hub-multimodal/3201-3600/clip_3377/clip_3377.json|완전 좋아. 아 요리 잘하는 룸메 언니랑 같이 사니까 세상이 달라 보인다.       세상에 이렇게 맛있는 음식이 많았구나. 행복해~~
+AI-Hub-multimodal/0401-0800/clip_604/clip_604.json|염려 붙들어 매. 세상에서 제일 행복한 여자로 만들어 줄 거야.
+AI-Hub-multimodal/0401-0800/clip_424/clip_424.json|그랬구나. 이모도 우리 지훈이 오랜만에 만나서 너무 행복했어.
+AI-Hub-multimodal/4801-5200/clip_5037/clip_5037.json| 어이구 내 새끼.   할머니네 집에 와서 행복했어?    더 자주자주 오면 되겠네.
+AI-Hub-multimodal/0001-0400/clip_317/clip_317.json|다 선생님 덕분입니다 너무 너무 행복하네요!
+AI-Hub-multimodal/0001-0400/clip_168/clip_168.json| 어떡해. 너무 좋아요.
+AI-Hub-multimodal/0001-0400/clip_272/clip_272.json|뮤직비디오도 완전 대박이야. 티지피디가 감독했는데 때깔 완전 쩔어. 완전 영화 삘. 심지어 예은이가 센터야! 너무 좋아 어떡해.
+AI-Hub-multimodal/3601-4000/clip_3736/clip_3736.json|너무 좋아. 오랜만에 맥주도 땡기고 밤새 수다 떨자. 솔직히 우리 하루는 있어야 돼.  잠깐 잠깐 만나는 걸로는 이야기를 다 못 끝낸다구.
+AI-Hub-multimodal/4001-4400/clip_4233/clip_4233.json|아 너무 좋죠. 거기 국립공원 대피소에 신청할까요?
+AI-Hub-multimodal/1201-1600/clip_1567/clip_1567.json|응. 검사비, 진료비 전부 돌려받을 수 있어서. 솔직히 너무 좋아. 병원 갈때 부담도 안 가고. 아프면 망설이지 않고 바로 갈 수 있으니까.
+AI-Hub-multimodal/2801-3200/clip_2902/clip_2902.json|그래서 끝나자마자 시원한 생맥주를 마시러 갔는데... 눈물이 막 나오려고 하는 거야. 너무 좋아서.
+AI-Hub-multimodal/3601-4000/clip_3760/clip_3760.json|응. 내가 요즘 애들한테도 맨날 그런다니까. 엄마 너무 행복하다고. 애들도 요즘 내 표정이 너무 좋대. 막 저녁 때도 그냥 티비 보고 그런게 아니라 대본 연습하니까… 너무 좋더라.
+AI-Hub-multimodal/1601-2000/clip_1633/clip_1633.json|네. 여기 시원하고 음악도 나오고. 음료수도 맛있어요. 책읽기 너무 좋은 곳이에요. 다음에 또 오고 싶어요.
+AI-Hub-multimodal/0401-0800/clip_800/clip_800.json|그냥. 문득 엄마 보니까 너무 좋네
+AI-Hub-multimodal/4401-4800/clip_4722/clip_4722.json|네. 너무 좋네요. 도시락 모임! 완전 로망인데.
+AI-Hub-multimodal/4401-4800/clip_4696/clip_4696.json|할머니 된장찌개 먹으려고 온 건데요!        당연히 너무 좋죠.
+AI-Hub-multimodal/2401-2800/clip_2414/clip_2414.json|그래서 책을 사왔구나? 엄마는 책 읽는 게 너무 좋아. 고마워. 수영이는 센스가 넘친다.
+AI-Hub-multimodal/0001-0400/clip_235/clip_235.json|너무 좋다. 뭉클해. 이 부분에 딱이겠어!
+AI-Hub-multimodal/5601-6000/clip_5919/clip_5919.json|괜찮아. 이렇게 잘 지내고 있는 거 보니까 너무 좋다.
+AI-Hub-multimodal/0401-0800/clip_651/clip_651.json|응 좋아! 나는 진짜 시험은 싫은데 시험 끝나고 나서가 너무 좋아 짜릿해
+AI-Hub-multimodal/3601-4000/clip_3936/clip_3936.json|그래요? 그럼 저는 너무 좋죠.
+AI-Hub-multimodal/2401-2800/clip_2523/clip_2523.json|저는 진짜 선생님이 너무 좋아요!
+AI-Hub-multimodal/0401-0800/clip_424/clip_424.json|나도! 이모랑 노는거 너무 좋아.
+AI-Hub-multimodal/1201-1600/clip_1462/clip_1462.json|어! 우와! 미역국 너무 좋아요! 고맙습니다. 할머니!
+AI-Hub-multimodal/3601-4000/clip_3999/clip_3999.json|나도 내가 알래스카에 갈 거라고는 상상도 못해봤는데. 너무 좋더라.         딱 크루즈 그 배, 선박에 나가면 산만한 빙산들이 촤악 펼쳐져 있는데, 장관이 따로 없어.
+AI-Hub-multimodal/1601-2000/clip_1695/clip_1695.json|정말? 그럼 나야 너무 좋지. 아빠 나갈 일 있었어?
+AI-Hub-multimodal/0001-0400/clip_47/clip_47.json|와 경치 좀 봐 너무 좋다
+AI-Hub-multimodal/3601-4000/clip_3695/clip_3695.json|근데 처음에 인사를 딱 하는데 목소리가 너무 좋은거야. 알지 내가 목소리 섹시한 사람이 이상형인거.
+AI-Hub-multimodal/0001-0400/clip_308/clip_308.json|그럼 저야 너무 좋죠 감사합니다
+AI-Hub-multimodal/1201-1600/clip_1319/clip_1319.json|그랬어? 고모가 사준 거 맛있게 먹었다니까 기분이 너무 좋네.
+AI-Hub-multimodal/1201-1600/clip_1361/clip_1361.json| 너랑은 이런 것만 죽이 잘 맞아서 너무 좋아.
+AI-Hub-multimodal/1201-1600/clip_1277/clip_1277.json|알았어. 안 놀릴게! 나도 니가 너무 좋아.
+AI-Hub-multimodal/1201-1600/clip_1535/clip_1535.json|나도 엄마랑 여행 가서 너무 좋았어.
+AI-Hub-multimodal/3601-4000/clip_3836/clip_3836.json|우와 너무 좋아요. 그럼 오늘 다같이 사진 찍을 수 있겠다.
+AI-Hub-multimodal/1201-1600/clip_1277/clip_1277.json|언니, 나는 언니가 너무 좋아.
+AI-Hub-multimodal/0001-0400/clip_140/clip_140.json|아, 정말요? 너무 좋죠. 저 오미자 귀신이거든요.
+AI-Hub-multimodal/4801-5200/clip_5061/clip_5061.json|음… 나는 스위스가 엄청 좋았어.       내가 갔을 때, 눈이 엄청 내렸거든. 그래서 버스에 갇혀서      한참동안 앞으로 못 갔었어. 근데 그 시간이 너무 좋더라.
+AI-Hub-multimodal/3601-4000/clip_3755/clip_3755.json|헐. 너무 좋다. 언니 나 갑자기 화가 풀리는 것 같애.
+AI-Hub-multimodal/4401-4800/clip_4508/clip_4508.json|너무 좋아. 빨리 물어봐.
+AI-Hub-multimodal/4001-4400/clip_4174/clip_4174.json|너무 좋네요. 너무 좋아요.
+AI-Hub-multimodal/0001-0400/clip_207/clip_207.json|아니야 아니야. 어디 가지말고 여기 있어. 얼굴보니까 너무 좋다 정말.
+AI-Hub-multimodal/5601-6000/clip_5687/clip_5687.json|아, 저희 사무실 주변에 사시는구나.  너무 좋네요~
+AI-Hub-multimodal/1601-2000/clip_1912/clip_1912.json|이렇게… 오후에 창문으로 기분 좋게 드는 바람 쐬면서, 엄마랑 커피마시고 있으니까, 너무 좋다.
+AI-Hub-multimodal/4001-4400/clip_4174/clip_4174.json|그랬다면 다행입니다. 저도 우리 김숙자 학생 덕분에 참 즐거웠어요.
+AI-Hub-multimodal/0401-0800/clip_417/clip_417.json|큰 집보다 좋은게 우리 가족이잖아~
+AI-Hub-multimodal/1201-1600/clip_1441/clip_1441.json|우리 지은이가 할머니가 만든 음식을 맛있게 먹어준다니까 기쁘네.
+AI-Hub-multimodal/1601-2000/clip_1947/clip_1947.json|그래, 너한테 도움이 많이 된다면 나야 그걸로 너무 기쁘고, 다행이지.
+AI-Hub-multimodal/2001-2400/clip_2096/clip_2096.json|그건 맞는 말이야. 너희 아빠가 운동을 시작했다고 하니 내 마음이 너무 기쁘다.
+AI-Hub-multimodal/1201-1600/clip_1264/clip_1264.json|응. 나는 내가 잘 하는게 많아서 뿌듯해.
+AI-Hub-multimodal/1601-2000/clip_1736/clip_1736.json|흠.. 그런 얘기 들으니까 엄청 뿌듯하네. 몸 관리 잘해서 계속 여보 난로 하고 싶다.
+AI-Hub-multimodal/0401-0800/clip_718/clip_718.json|나 지금 얼마나 뿌듯하냐면 막 일어나서 내가 가구 조립의 신이랑 산다고 자랑하고 싶을 정도야.
+AI-Hub-multimodal/1201-1600/clip_1255/clip_1255.json|이 언니는 너무 뿌듯해서 그래! 뿌듯해서~
+AI-Hub-multimodal/2801-3200/clip_3156/clip_3156.json|옛날 굴 같던 하숙방 살던 때가 엊그제 같은데. 내가 다 뿌듯하다.
+AI-Hub-multimodal/0001-0400/clip_296/clip_296.json|어느새 우리 막내 아들이 이렇게 커서 같이 기부 얘기도 하고 아빠가 너무 뿌듯하구나
+AI-Hub-multimodal/2401-2800/clip_2649/clip_2649.json|제가 한 반찬이 맛있다니까 뿌듯하네요.
+AI-Hub-multimodal/5201-5600/clip_5287/clip_5287.json|장하다. 나는 네가 자랑스러워.
+AI-Hub-multimodal/0001-0400/clip_256/clip_256.json|꿈 아니야. 너 아니면 누가 정민대학교 가겠냐.  니가 내 친구라는 게 자랑스럽다 임마.
+AI-Hub-multimodal/0001-0400/clip_231/clip_231.json|이거 식물친구가 생기니 기분이 좋구만!
+AI-Hub-multimodal/0401-0800/clip_793/clip_793.json|이렇게 화창하면 기분이 좋아.
+AI-Hub-multimodal/1201-1600/clip_1600/clip_1600.json|누나 눈에 귀여운 동생이면 됐지~ 우리 이번 일을 통해서 왠지 가까워진 거 같아서 기분이 좋다.
+AI-Hub-multimodal/1201-1600/clip_1462/clip_1462.json|그래. 지은이가 좋아하니까, 할머니도 아주 기분이 좋은데? 생일축하해!
+AI-Hub-multimodal/4401-4800/clip_4459/clip_4459.json|네. 파스타 먹으면 기분이 좋아서, 할머니가 할아버지를, 더 좋아하실 거 같아요.
+AI-Hub-multimodal/5601-6000/clip_5929/clip_5929.json|그럼… 보기만 해도 기분이 좋은데?선배가 가끔 나 쳐다보면,        그 눈빛에 홀려버리는 것 같다니까?
+AI-Hub-multimodal/1601-2000/clip_1760/clip_1760.json|응 자전거를 타면 기분이 좋아져. 내가 되게 빨리 달리니까 바람을 맞는 것도 기분이 좋고..
+AI-Hub-multimodal/0401-0800/clip_475/clip_475.json|늘 상대 눈을 보고 활짝 웃으면서 인사를 하더라고. 피곤해서 죽겠는 날도 달구가 인사하면서 사무실 들어오면 뭔가 기분이 좋고 그랬지.
+AI-Hub-multimodal/0401-0800/clip_779/clip_779.json|그러니까 저렇게 싱글벙글이지. 내가 다 기분이 좋더라.
+AI-Hub-multimodal/1201-1600/clip_1590/clip_1590.json|요즘 같은 불경기에 누구 하나 성공했다는 얘기 들으니까 기분이 좋네.
+AI-Hub-multimodal/2001-2400/clip_2185/clip_2185.json|그렇구나, 엄청 설레겠다. 그렇지? 나도 처음 수학여행 갈 때 너무 두근거렸거든.
+AI-Hub-multimodal/5601-6000/clip_5642/clip_5642.json|난 어제 엄청 설레서 잠도 안 왔는데.
+AI-Hub-multimodal/1201-1600/clip_1205/clip_1205.json|새벽에 일어나서 운동하면 아주 상쾌해.
+AI-Hub-multimodal/0401-0800/clip_555/clip_555.json|응. 목욕하니까 엄청 상쾌하고 기분 완전 좋아.
