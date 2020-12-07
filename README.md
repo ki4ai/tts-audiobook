@@ -16,7 +16,7 @@
 #### System/SW Overview
 
 * 개발목표: 감정이 들어간 자연스러운 발화가 가능한 음성합성모델
-* 최종 결과물: Tacotron2 base mel spectrogram 합성 후 VocGAN을 통한 음성합성
+* 최종 결과물: Tacotron2를 기초로 하는 TTS base mel spectrogram 합성 후 VocGAN을 통한 음성합성
 
 ***
 
