@@ -66,8 +66,8 @@ python flask_server_test.py [--port <PORT>]: 개별 모델 테스트용
 통합버전용: client.py
 M1.4 의 TTS_INPUT 데이터셋을 활용하여 TTS 를 사용합니다.
 개별 모델 테스트용:
-python flask_test_emotion.py [--port <PORT>]
-또는 python flask_test_speaker.py [--port <PORT>]
+python client_test_emotion.py [--port <PORT>]
+또는 python client_test_speaker.py [--port <PORT>]
 해당 실행은 sentences 내부의 있는 문장을 random sampling 하여 문장을 생성합니다.
 합성된 음성은 M2.4 아래에 생성이 됩니다.
 ```
