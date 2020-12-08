@@ -22,7 +22,7 @@
 
 #### How to Install
 
-* pip install -r requirements.txt -r requirements-local.txt
+* pip install -r requirements.txt
 
 ***
 
