@@ -59,3 +59,17 @@
 export CUDA_VISIBLE_DEVICES=<GPUID>
 python flask_server.py [--port <PORT>]
 ```
+
+* Step2. (POST 방법 참조) GPU Version - 클라이언트 머신(예제는 호스트와 동일)에서 아래 명령을 실행한다. 
+```
+python flask_test_emotion.py [--port <PORT>]
+또는 python flask_test_speaker.py [--port <PORT>]
+해당 실행은 sentences 내부의 있는 문장을 random sampling 하여 문장을 생성합니다.
+합성된 음성은 M2.4 아래에 생성이 됩니다.
+```
+```
+주요 라인
+r = s.post(ip_address, data={'sentence': cur[0], 'speaker':'{}'.format(cur[1]), 'emotion': '{}'.format(cur[2]), 'intensity': 1, 'result_folder': 'emotion/'})
+설명
+sentence: 문장 정보, speaker: 화자 정보, emotion: 감정 정보, result_folder: 저장 위치
+```
