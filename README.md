@@ -57,11 +57,15 @@
 * Step1. GPU Version - 호스트 머신에서 아래 명령을 실행한다. 
 ```
 export CUDA_VISIBLE_DEVICES=<GPUID>
-python flask_server.py [--port <PORT>]
+python flask_server.py [--port <PORT>]: 통합버전용
+python flask_server_test.py [--port <PORT>]: 개별 모델 테스트용
 ```
 
 * Step2. (POST 방법 참조) GPU Version - 클라이언트 머신(예제는 호스트와 동일)에서 아래 명령을 실행한다. 
 ```
+통합버전용: client.py
+M1.4 의 TTS_INPUT 데이터셋을 활용하여 TTS 를 사용합니다.
+개별 모델 테스트용:
 python flask_test_emotion.py [--port <PORT>]
 또는 python flask_test_speaker.py [--port <PORT>]
 해당 실행은 sentences 내부의 있는 문장을 random sampling 하여 문장을 생성합니다.
