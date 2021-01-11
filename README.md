@@ -57,7 +57,7 @@
 * Step0. 모델 압축 풀기
 ```
 cat models.tar.gz.* > models.tar.gz_3; tar -xzvf models.tar.gz models/ ;rm models.tar.gz*
-``
+```
 
 * Step1. GPU Version - 호스트 머신에서 아래 명령을 실행한다. 
 ```
